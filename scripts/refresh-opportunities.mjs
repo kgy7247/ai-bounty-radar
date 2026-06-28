@@ -20,6 +20,12 @@ function amountText(item) {
   return `${amount} ${symbol} pool`;
 }
 
+function gibworkUrl(item) {
+  const path = item.type === "bounties" ? "bounties" : "tasks";
+
+  return `https://app.gib.work/${path}/${item.id}`;
+}
+
 async function gibwork() {
   const data = await fetchJson("https://app.gib.work/api/explore");
   const riskyPromo = /(guaranteed|profit regardless|safe, market-neutral|steady daily yield|whether.*crashes.*surges)/i;
@@ -33,7 +39,7 @@ async function gibwork() {
       rewardText: amountText(item),
       action: (item.tags || []).includes("Development") ? "Issue or PR" : "Submission",
       note: `${item.tags?.join(", ") || "Task"}; deadline ${item.deadline?.slice(0, 10) || "unknown"}.`,
-      url: `https://app.gib.work/task/${item.id}`,
+      url: gibworkUrl(item),
     }));
 }
 
