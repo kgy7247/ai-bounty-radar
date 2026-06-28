@@ -1,0 +1,109 @@
+{
+  "updatedAt": "2026-06-28T15:13:23.956Z",
+  "opportunities": [
+    {
+      "title": "Virtuals referral",
+      "source": "Virtuals",
+      "rewardText": "20% + 5% fees",
+      "action": "Share referral",
+      "note": "Referral code gRico6; payout depends on eligible referred trading.",
+      "url": "https://app.virtuals.io/referral?code=gRico6"
+    },
+    {
+      "title": "ubounty demo contributor flow",
+      "source": "ubounty",
+      "rewardText": "$20 USDC",
+      "action": "Submit test bounty PR",
+      "note": "Validates USDC payment flow after merged PR.",
+      "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
+    },
+    {
+      "title": "X Post Hunt on Discord",
+      "source": "Gibwork",
+      "rewardText": "175 USDC pool",
+      "action": "Submission",
+      "note": "Misc; deadline 2026-07-21.",
+      "url": "https://app.gib.work/task/7ed5d5d7-a448-4e2c-8d0b-f145b77ab082"
+    },
+    {
+      "title": "Testing & Referral Share",
+      "source": "Gibwork",
+      "rewardText": "50 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-07-07.",
+      "url": "https://app.gib.work/task/d389b565-8c47-4de6-ac4f-22f9170223e7"
+    },
+    {
+      "title": "Create video for Redcircle",
+      "source": "Gibwork",
+      "rewardText": "250 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-07-04.",
+      "url": "https://app.gib.work/task/df3f08ab-7124-4481-9a77-048eae91aa97"
+    },
+    {
+      "title": "Create an X Video React Post on Gibwork’s Latest Update",
+      "source": "Gibwork",
+      "rewardText": "160 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-07-18.",
+      "url": "https://app.gib.work/task/66d9035f-501b-447e-b6dc-8667bfe4dade"
+    },
+    {
+      "title": "Compose Twitter Thread or Long Tweet on Nyxly Platform Benefits for Creators",
+      "source": "Gibwork",
+      "rewardText": "130 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-06-30.",
+      "url": "https://app.gib.work/task/85305db7-a32b-4f51-ad5b-20080354b323"
+    },
+    {
+      "title": "Improve Gibwork Landing Page or Submit a GitHub Enhancement",
+      "source": "Gibwork",
+      "rewardText": "350 USDC pool",
+      "action": "Issue or PR",
+      "note": "Development; deadline 2026-07-31.",
+      "url": "https://app.gib.work/task/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7"
+    },
+    {
+      "title": " Capture App Photos in the Wild",
+      "source": "Gibwork",
+      "rewardText": "150 USDC pool",
+      "action": "Submission",
+      "note": "Misc; deadline 2026-07-01.",
+      "url": "https://app.gib.work/task/f58295c4-d9c7-4fc7-8d91-31287566bc91"
+    },
+    {
+      "title": "[Bounty: 23 USDC] Create contributors webpage",
+      "source": "GitHub",
+      "rewardText": "$23 candidate",
+      "action": "PR or issue",
+      "note": "dwebagents/AgentPipe",
+      "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
+    },
+    {
+      "title": "[$30 BOUNTY] [Python] Fix HighMemoryUsage alert ratio expression",
+      "source": "GitHub",
+      "rewardText": "$30 candidate",
+      "action": "PR or issue",
+      "note": "weilixiong/zeroeye",
+      "url": "https://github.com/weilixiong/zeroeye/issues/1"
+    },
+    {
+      "title": "[$20 BOUNTY] [Config] Add .editorconfig with consistent formatting rules",
+      "source": "GitHub",
+      "rewardText": "$20 candidate",
+      "action": "PR or issue",
+      "note": "cuentaprueba244w-dotcom/zeroeye",
+      "url": "https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/2"
+    },
+    {
+      "title": "[$15 BOUNTY] [Go] Make analytics collector Start idempotent",
+      "source": "GitHub",
+      "rewardText": "$15 candidate",
+      "action": "PR or issue",
+      "note": "caydyan/zeroeye",
+      "url": "https://github.com/caydyan/zeroeye/issues/1"
+    }
+  ]
+}

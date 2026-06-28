@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Bounty Radar | USDC task scanner</title>
+  <meta name="description" content="A compact radar for USDC, Web3, and AI-agent bounty opportunities. Built for same-day action, not hype.">
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #18221f;
+      --muted: #5d6964;
+      --line: #d8dfdc;
+      --paper: #fbfcfb;
+      --panel: #ffffff;
+      --accent: #0f766e;
+      --accent-2: #b45309;
+      --soft: #edf6f4;
+      --warn: #fff7ed;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.5;
+    }
+    header {
+      border-bottom: 1px solid var(--line);
+      background: #f6faf8;
+    }
+    .wrap {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 18px 0;
+    }
+    .brand {
+      font-weight: 800;
+      letter-spacing: 0;
+      font-size: 18px;
+    }
+    nav {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+      font-size: 14px;
+    }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 650;
+    }
+    a:hover { text-decoration: underline; }
+    .hero {
+      padding: 46px 0 34px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.25fr) minmax(280px, .75fr);
+      gap: 32px;
+      align-items: end;
+    }
+    h1 {
+      font-size: clamp(34px, 5vw, 64px);
+      line-height: .98;
+      margin: 0 0 18px;
+      letter-spacing: 0;
+    }
+    .lead {
+      font-size: 18px;
+      max-width: 760px;
+      color: var(--muted);
+      margin: 0;
+    }
+    .metric-strip {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+    .metric {
+      padding: 18px;
+      border-right: 1px solid var(--line);
+      min-height: 92px;
+    }
+    .metric:last-child { border-right: 0; }
+    .metric b {
+      display: block;
+      font-size: 26px;
+      line-height: 1.1;
+    }
+    .metric span {
+      color: var(--muted);
+      font-size: 13px;
+    }
+    main { padding: 28px 0 56px; }
+    section { margin: 34px 0; }
+    h2 {
+      font-size: 24px;
+      margin: 0 0 14px;
+      letter-spacing: 0;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 18px;
+    }
+    .card h3 {
+      margin: 0 0 8px;
+      font-size: 17px;
+      line-height: 1.25;
+    }
+    .card p {
+      color: var(--muted);
+      margin: 0 0 12px;
+      font-size: 14px;
+    }
+    .tagrow {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 12px;
+    }
+    .tag {
+      font-size: 12px;
+      border: 1px solid var(--line);
+      padding: 3px 7px;
+      border-radius: 999px;
+      background: var(--soft);
+      color: #1f4d47;
+      font-weight: 650;
+    }
+    .table-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      border-radius: 8px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      min-width: 780px;
+      font-size: 14px;
+    }
+    th, td {
+      border-bottom: 1px solid var(--line);
+      padding: 12px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: #f1f5f3;
+      color: #34423d;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+    tr:last-child td { border-bottom: 0; }
+    .amount {
+      font-weight: 800;
+      color: var(--accent-2);
+      white-space: nowrap;
+    }
+    .notice {
+      border: 1px solid #fed7aa;
+      background: var(--warn);
+      border-radius: 8px;
+      padding: 14px 16px;
+      color: #7c2d12;
+      font-size: 14px;
+    }
+    .cta {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 20px;
+      align-items: center;
+      border: 1px solid #99d5cd;
+      background: #ecfbf8;
+      border-radius: 8px;
+      padding: 20px;
+    }
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 0 14px;
+      background: var(--accent);
+      color: white;
+      border-radius: 6px;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .button:hover { text-decoration: none; background: #0b5d57; }
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 24px 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    @media (max-width: 780px) {
+      .hero, .cta { grid-template-columns: 1fr; }
+      .grid { grid-template-columns: 1fr; }
+      .metric-strip { grid-template-columns: 1fr; }
+      .metric { border-right: 0; border-bottom: 1px solid var(--line); }
+      .metric:last-child { border-bottom: 0; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <div class="topbar">
+        <div class="brand">AI Bounty Radar</div>
+        <nav>
+          <a href="#radar">Radar</a>
+          <a href="#service">Service</a>
+          <a href="https://app.virtuals.io/referral?code=gRico6">Virtuals referral</a>
+        </nav>
+      </div>
+      <div class="hero">
+        <div>
+          <h1>Small USDC opportunities, filtered for action.</h1>
+          <p class="lead">A daily scan of Web3, AI-agent, and bounty tasks. The goal is to find work that can be shipped quickly, verified publicly, and paid in crypto or stablecoins.</p>
+        </div>
+        <div class="metric-strip" aria-label="Current service metrics">
+          <div class="metric"><b id="task-count">8+</b><span>tracked leads</span></div>
+          <div class="metric"><b id="top-amount">$350</b><span>largest active lead seen</span></div>
+          <div class="metric"><b>0 hype</b><span>no profit guarantees</span></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="radar">
+      <h2>Live Radar</h2>
+      <div class="notice">Payment is not guaranteed. Every listing still needs manual verification, submission quality, and platform approval. Wallet signing and paid actions are never automated.</div>
+      <div class="table-wrap" style="margin-top:14px">
+        <table>
+          <thead>
+            <tr>
+              <th>Opportunity</th>
+              <th>Source</th>
+              <th>Reward</th>
+              <th>Action</th>
+              <th>Why it matters</th>
+            </tr>
+          </thead>
+          <tbody id="opportunity-body">
+            <tr>
+              <td><a href="https://app.gib.work/">Improve Gibwork landing page or submit GitHub enhancement</a></td>
+              <td>Gibwork</td>
+              <td class="amount">350 USDC pool</td>
+              <td>Issue or PR</td>
+              <td>Directly aligned with engineering and product critique.</td>
+            </tr>
+            <tr>
+              <td><a href="https://ubounty.ai/">ubounty demo contributor flow</a></td>
+              <td>GitHub / ubounty</td>
+              <td class="amount">$20 USDC</td>
+              <td>Submit test bounty PR</td>
+              <td>Explicit payment-infrastructure validation task.</td>
+            </tr>
+            <tr>
+              <td><a href="https://app.virtuals.io/referral?code=gRico6">Virtuals referral</a></td>
+              <td>Virtuals</td>
+              <td class="amount">20% + 5% fees</td>
+              <td>Share referral</td>
+              <td>Passive upside if referred users trade eligible pools.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="service">
+      <h2>Same-Day Bounty Submission Pack</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>Fit check</h3>
+          <p>Pick one bounty, map its acceptance criteria, flag blockers, and estimate whether it is worth attempting.</p>
+          <div class="tagrow"><span class="tag">$20 target</span><span class="tag">1 issue</span></div>
+        </article>
+        <article class="card">
+          <h3>Submission draft</h3>
+          <p>Create the PR description, screenshots checklist, validation notes, and public proof links for a bounty submission.</p>
+          <div class="tagrow"><span class="tag">$50 target</span><span class="tag">same day</span></div>
+        </article>
+        <article class="card">
+          <h3>Patch sprint</h3>
+          <p>For small GitHub issues: implement a scoped fix, run validation, and prepare a draft PR handoff.</p>
+          <div class="tagrow"><span class="tag">$100+ target</span><span class="tag">code</span></div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <div class="cta">
+        <div>
+          <h2 style="margin-bottom:6px">Need a bounty picked and packaged?</h2>
+          <p class="lead" style="font-size:16px">Open a GitHub issue with the bounty link, deadline, payout, and any account constraints. Payment details are confirmed only after scope is accepted.</p>
+        </div>
+        <a class="button" href="https://github.com/kgy7247/ai-bounty-radar/issues/new">Request a scan</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      Updated from public sources. No financial advice, no trading advice, no guaranteed payout.
+    </div>
+  </footer>
+
+  <script>
+    fetch('./opportunities.json', { cache: 'no-store' })
+      .then((res) => res.ok ? res.json() : null)
+      .then((data) => {
+        if (!data || !Array.isArray(data.opportunities)) return;
+        document.getElementById('task-count').textContent = `${data.opportunities.length}+`;
+        const top = data.opportunities.find((item) => item.rewardText);
+        if (top) document.getElementById('top-amount').textContent = top.rewardText.replace(/\\s+pool$/i, '');
+        document.getElementById('opportunity-body').innerHTML = data.opportunities.slice(0, 12).map((item) => `
+          <tr>
+            <td><a href="${item.url}">${item.title}</a></td>
+            <td>${item.source}</td>
+            <td class="amount">${item.rewardText || 'Check listing'}</td>
+            <td>${item.action || 'Review'}</td>
+            <td>${item.note || ''}</td>
+          </tr>
+        `).join('');
+      })
+      .catch(() => {});
+  </script>
+</body>
+</html>
+
