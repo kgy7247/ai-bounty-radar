@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T15:26:01.264Z",
+  "updatedAt": "2026-06-29T01:21:58.082Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -82,12 +82,12 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[$30 BOUNTY] [Python] Fix HighMemoryUsage alert ratio expression",
+      "title": "[$15 BOUNTY] [Go] Make analytics collector Start idempotent",
       "source": "GitHub",
-      "rewardText": "$30 candidate",
+      "rewardText": "$15 candidate",
       "action": "PR or issue",
-      "note": "weilixiong/zeroeye",
-      "url": "https://github.com/weilixiong/zeroeye/issues/1"
+      "note": "caydyan/zeroeye",
+      "url": "https://github.com/caydyan/zeroeye/issues/1"
     },
     {
       "title": "[$20 BOUNTY] [Config] Add .editorconfig with consistent formatting rules",
@@ -98,12 +98,12 @@
       "url": "https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/2"
     },
     {
-      "title": "[$15 BOUNTY] [Go] Make analytics collector Start idempotent",
+      "title": "[$30 BOUNTY] [Python] Fix HighMemoryUsage alert ratio expression",
       "source": "GitHub",
-      "rewardText": "$15 candidate",
+      "rewardText": "$30 candidate",
       "action": "PR or issue",
-      "note": "caydyan/zeroeye",
-      "url": "https://github.com/caydyan/zeroeye/issues/1"
+      "note": "weilixiong/zeroeye",
+      "url": "https://github.com/weilixiong/zeroeye/issues/1"
     }
   ]
 }
