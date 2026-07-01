@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T01:16:42.892Z",
+  "updatedAt": "2026-07-01T01:21:48.137Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -16,6 +16,14 @@
       "action": "Submit test bounty PR",
       "note": "Validates USDC payment flow after merged PR.",
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
+    },
+    {
+      "title": "How Do You Handle Your USDC/USDT Earnings? (3-min Survey)",
+      "source": "Gibwork",
+      "rewardText": "25 USDC pool",
+      "action": "Submission",
+      "note": "Misc; deadline 2026-07-15.",
+      "url": "https://app.gib.work/tasks/d4088c5b-12a2-4cf9-88da-6d54cbfd81eb"
     },
     {
       "title": "X Post Hunt on Discord",
@@ -42,14 +50,6 @@
       "url": "https://app.gib.work/tasks/66d9035f-501b-447e-b6dc-8667bfe4dade"
     },
     {
-      "title": "Compose Twitter Thread or Long Tweet on Nyxly Platform Benefits for Creators",
-      "source": "Gibwork",
-      "rewardText": "130 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-06-30.",
-      "url": "https://app.gib.work/tasks/85305db7-a32b-4f51-ad5b-20080354b323"
-    },
-    {
       "title": "Improve Gibwork Landing Page or Submit a GitHub Enhancement",
       "source": "Gibwork",
       "rewardText": "350 USDC pool",
@@ -74,28 +74,20 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[$15 BOUNTY] [Go] Make analytics collector Start idempotent",
+      "title": "[$5 BOUNTY] [Python] Generate TODO audit report",
       "source": "GitHub",
-      "rewardText": "$15 candidate",
+      "rewardText": "$5 candidate",
       "action": "PR or issue",
-      "note": "caydyan/zeroeye",
-      "url": "https://github.com/caydyan/zeroeye/issues/1"
+      "note": "cuentaprueba244w-dotcom/TentOfTrials",
+      "url": "https://github.com/cuentaprueba244w-dotcom/TentOfTrials/issues/1"
     },
     {
-      "title": "[$20 BOUNTY] [Config] Add .editorconfig with consistent formatting rules",
+      "title": "Complete a test bounty: Submit PR and receive USDC payment",
       "source": "GitHub",
       "rewardText": "$20 candidate",
       "action": "PR or issue",
-      "note": "cuentaprueba244w-dotcom/zeroeye",
-      "url": "https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/2"
-    },
-    {
-      "title": "[$30 BOUNTY] [Python] Fix HighMemoryUsage alert ratio expression",
-      "source": "GitHub",
-      "rewardText": "$30 candidate",
-      "action": "PR or issue",
-      "note": "weilixiong/zeroeye",
-      "url": "https://github.com/weilixiong/zeroeye/issues/1"
+      "note": "ubounty-app/ubounty-demo",
+      "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     }
   ]
 }
