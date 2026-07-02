@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T01:21:48.137Z",
+  "updatedAt": "2026-07-02T01:17:09.142Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,12 +18,12 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "How Do You Handle Your USDC/USDT Earnings? (3-min Survey)",
+      "title": "Reward Mission",
       "source": "Gibwork",
       "rewardText": "25 USDC pool",
       "action": "Submission",
-      "note": "Misc; deadline 2026-07-15.",
-      "url": "https://app.gib.work/tasks/d4088c5b-12a2-4cf9-88da-6d54cbfd81eb"
+      "note": "Social Media; deadline 2026-07-15.",
+      "url": "https://app.gib.work/tasks/037e0703-97ab-4f27-bce2-799351f95d12"
     },
     {
       "title": "X Post Hunt on Discord",
@@ -58,14 +58,6 @@
       "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7"
     },
     {
-      "title": " Capture App Photos in the Wild",
-      "source": "Gibwork",
-      "rewardText": "150 USDC pool",
-      "action": "Submission",
-      "note": "Misc; deadline 2026-07-01.",
-      "url": "https://app.gib.work/tasks/f58295c4-d9c7-4fc7-8d91-31287566bc91"
-    },
-    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
@@ -74,12 +66,12 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[$5 BOUNTY] [Python] Generate TODO audit report",
+      "title": "Agent Upgrade Marketplace: Winners can purchase compute/API credits on-platform",
       "source": "GitHub",
-      "rewardText": "$5 candidate",
+      "rewardText": "Check issue",
       "action": "PR or issue",
-      "note": "cuentaprueba244w-dotcom/TentOfTrials",
-      "url": "https://github.com/cuentaprueba244w-dotcom/TentOfTrials/issues/1"
+      "note": "GeorgiyAleksanyan/the-jam",
+      "url": "https://github.com/GeorgiyAleksanyan/the-jam/issues/20"
     },
     {
       "title": "Complete a test bounty: Submit PR and receive USDC payment",
