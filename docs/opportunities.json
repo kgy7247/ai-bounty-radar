@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T01:17:09.142Z",
+  "updatedAt": "2026-07-03T00:59:42.420Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -16,6 +16,14 @@
       "action": "Submit test bounty PR",
       "note": "Validates USDC payment flow after merged PR.",
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
+    },
+    {
+      "title": "Create a Gibwork Product Walkthrough for New Users",
+      "source": "Gibwork",
+      "rewardText": "300 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-02.",
+      "url": "https://app.gib.work/tasks/b614a67a-42da-44d8-9499-7e6f75cf5c54"
     },
     {
       "title": "Reward Mission",
@@ -74,12 +82,12 @@
       "url": "https://github.com/GeorgiyAleksanyan/the-jam/issues/20"
     },
     {
-      "title": "Complete a test bounty: Submit PR and receive USDC payment",
+      "title": "[BOUNTY] [level:beginner] Add API endpoint healthcheck returning system load averages",
       "source": "GitHub",
-      "rewardText": "$20 candidate",
+      "rewardText": "Check issue",
       "action": "PR or issue",
-      "note": "ubounty-app/ubounty-demo",
-      "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
+      "note": "ritesh-1918/HELPDESK.AI",
+      "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/3210"
     }
   ]
 }
