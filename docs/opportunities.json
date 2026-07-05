@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T00:58:21.242Z",
+  "updatedAt": "2026-07-05T01:04:12.831Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -74,20 +74,36 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "Agent Upgrade Marketplace: Winners can purchase compute/API credits on-platform",
+      "title": "[$15 BOUNTY] [Go] Make analytics collector Start idempotent",
       "source": "GitHub",
-      "rewardText": "Check issue",
+      "rewardText": "$15 candidate",
       "action": "PR or issue",
-      "note": "GeorgiyAleksanyan/the-jam",
-      "url": "https://github.com/GeorgiyAleksanyan/the-jam/issues/20"
+      "note": "caydyan/zeroeye",
+      "url": "https://github.com/caydyan/zeroeye/issues/1"
     },
     {
-      "title": "[BOUNTY] [level:beginner] Add API endpoint healthcheck returning system load averages",
+      "title": "[$20 BOUNTY] [Config] Add .editorconfig with consistent formatting rules",
       "source": "GitHub",
-      "rewardText": "Check issue",
+      "rewardText": "$20 candidate",
       "action": "PR or issue",
-      "note": "ritesh-1918/HELPDESK.AI",
-      "url": "https://github.com/ritesh-1918/HELPDESK.AI/issues/3210"
+      "note": "cuentaprueba244w-dotcom/zeroeye",
+      "url": "https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/2"
+    },
+    {
+      "title": "[$30 BOUNTY] [Python] Fix HighMemoryUsage alert ratio expression",
+      "source": "GitHub",
+      "rewardText": "$30 candidate",
+      "action": "PR or issue",
+      "note": "weilixiong/zeroeye",
+      "url": "https://github.com/weilixiong/zeroeye/issues/1"
+    },
+    {
+      "title": "[ BOUNTY] [Python] Add module selection validation to build.py",
+      "source": "GitHub",
+      "rewardText": "$35 candidate",
+      "action": "PR or issue",
+      "note": "cuentaprueba244w-dotcom/TentOfTrials",
+      "url": "https://github.com/cuentaprueba244w-dotcom/TentOfTrials/issues/9"
     }
   ]
 }
