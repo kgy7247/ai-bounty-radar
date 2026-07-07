@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T01:04:20.045Z",
+  "updatedAt": "2026-07-07T01:02:43.434Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,20 +18,20 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "20-Minute Non-Stop Dance Challenge",
+      "source": "Gibwork",
+      "rewardText": "1.8 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-07-20.",
+      "url": "https://app.gib.work/tasks/779a65da-92e3-4595-9e29-ed7dfbc49d9e"
+    },
+    {
       "title": "Create a Gibwork Product Walkthrough for New Users",
       "source": "Gibwork",
       "rewardText": "300 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-02.",
       "url": "https://app.gib.work/tasks/b614a67a-42da-44d8-9499-7e6f75cf5c54"
-    },
-    {
-      "title": "Reward Mission",
-      "source": "Gibwork",
-      "rewardText": "25 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-07-15.",
-      "url": "https://app.gib.work/tasks/037e0703-97ab-4f27-bce2-799351f95d12"
     },
     {
       "title": "X Post Hunt on Discord",
@@ -96,14 +96,6 @@
       "action": "PR or issue",
       "note": "weilixiong/zeroeye",
       "url": "https://github.com/weilixiong/zeroeye/issues/1"
-    },
-    {
-      "title": "[ BOUNTY] [Python] Add module selection validation to build.py",
-      "source": "GitHub",
-      "rewardText": "$35 candidate",
-      "action": "PR or issue",
-      "note": "cuentaprueba244w-dotcom/TentOfTrials",
-      "url": "https://github.com/cuentaprueba244w-dotcom/TentOfTrials/issues/9"
     }
   ]
 }
