@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T00:53:09.985Z",
+  "updatedAt": "2026-07-09T00:58:36.380Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -80,6 +80,14 @@
       "action": "PR or issue",
       "note": "weilixiong/zeroeye",
       "url": "https://github.com/weilixiong/zeroeye/issues/1"
+    },
+    {
+      "title": "Complete a test bounty: Submit PR and receive USDC payment",
+      "source": "GitHub",
+      "rewardText": "$20 candidate",
+      "action": "PR or issue",
+      "note": "ubounty-app/ubounty-demo",
+      "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     }
   ]
 }
