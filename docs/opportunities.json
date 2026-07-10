@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T00:58:36.380Z",
+  "updatedAt": "2026-07-10T00:56:24.127Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -58,6 +58,22 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
+      "title": "[bounty]: Add wallet-native Base USDC funding and reconciliation",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/124"
+    },
+    {
+      "title": "[bounty]: Sync GitHub bounty issues into hosted API bounty records",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/115"
+    },
+    {
       "title": "[$15 BOUNTY] [Go] Make analytics collector Start idempotent",
       "source": "GitHub",
       "rewardText": "$15 candidate",
@@ -72,22 +88,6 @@
       "action": "PR or issue",
       "note": "cuentaprueba244w-dotcom/zeroeye",
       "url": "https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/2"
-    },
-    {
-      "title": "[$30 BOUNTY] [Python] Fix HighMemoryUsage alert ratio expression",
-      "source": "GitHub",
-      "rewardText": "$30 candidate",
-      "action": "PR or issue",
-      "note": "weilixiong/zeroeye",
-      "url": "https://github.com/weilixiong/zeroeye/issues/1"
-    },
-    {
-      "title": "Complete a test bounty: Submit PR and receive USDC payment",
-      "source": "GitHub",
-      "rewardText": "$20 candidate",
-      "action": "PR or issue",
-      "note": "ubounty-app/ubounty-demo",
-      "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     }
   ]
 }
