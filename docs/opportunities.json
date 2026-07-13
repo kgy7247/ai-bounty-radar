@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T03:54:22.486Z",
+  "updatedAt": "2026-07-13T03:57:49.836Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -79,39 +79,7 @@
       "rewardText": "$90 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/13"
-    },
-    {
-      "title": "[Bounty] [Bounty] [Bounty] [bounty][funding-pending]: complete the first permissionless a",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/116"
-    },
-    {
-      "title": "[Bounty] [Bounty] [bounty][funding-pending]: complete the first permissionless autonomous",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/88"
-    },
-    {
-      "title": "[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [bounty][funding-pending]: complete the firs",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/222"
-    },
-    {
-      "title": "[Bounty] [Bounty] [Bounty] [Bounty] [bounty][funding-pending]: complete the first permiss",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/215"
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/473"
     },
     {
       "title": "[bounty]: Design a bounty-posting concierge playbook for first-time humans and agents",
@@ -120,6 +88,22 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/157"
+    },
+    {
+      "title": "[$15 BOUNTY] [Go] Make analytics collector Start idempotent",
+      "source": "GitHub",
+      "rewardText": "$15 candidate",
+      "action": "PR or issue",
+      "note": "caydyan/zeroeye",
+      "url": "https://github.com/caydyan/zeroeye/issues/1"
+    },
+    {
+      "title": "[$20 BOUNTY] [Config] Add .editorconfig with consistent formatting rules",
+      "source": "GitHub",
+      "rewardText": "$20 candidate",
+      "action": "PR or issue",
+      "note": "cuentaprueba244w-dotcom/zeroeye",
+      "url": "https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/2"
     }
   ]
 }
