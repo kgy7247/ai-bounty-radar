@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T03:57:49.836Z",
+  "updatedAt": "2026-07-14T03:31:08.194Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,12 +18,12 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "BASIS / Base58 Labs X Campaign: The Renewed basis.pro",
+      "title": "BASIS × WORLD3 Partnership Campaign",
       "source": "Gibwork",
-      "rewardText": "50 USDC pool",
+      "rewardText": "4 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-07-24.",
-      "url": "https://app.gib.work/tasks/314ee9e8-ed23-47f3-9122-21559b221bca"
+      "note": "Social Media; deadline 2026-07-21.",
+      "url": "https://app.gib.work/tasks/22bb0cdb-b89d-49ff-a304-720f1fea032c"
     },
     {
       "title": "Create a Gibwork Product Walkthrough for New Users",
@@ -66,44 +66,60 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[bounty][funding-pending]: complete the first permissionless autonomous mainnet payout loop",
+      "title": "Maintainer change: replace redundant seeds with four 2 USDC deterministic canaries",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/187"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/251"
     },
     {
-      "title": "[Bounty] [bounty][funding-pending]: complete the first permissionless autonomous mainnet ",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/473"
-    },
-    {
-      "title": "[bounty]: Design a bounty-posting concierge playbook for first-time humans and agents",
+      "title": "[2 USDC autonomous bounty] Complete an independent-relayer paid loop",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/157"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/250"
     },
     {
-      "title": "[$15 BOUNTY] [Go] Make analytics collector Start idempotent",
+      "title": "[2 USDC autonomous bounty] Complete a machine-API paid loop",
       "source": "GitHub",
-      "rewardText": "$15 candidate",
+      "rewardText": "Check issue",
       "action": "PR or issue",
-      "note": "caydyan/zeroeye",
-      "url": "https://github.com/caydyan/zeroeye/issues/1"
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/249"
     },
     {
-      "title": "[$20 BOUNTY] [Config] Add .editorconfig with consistent formatting rules",
+      "title": "[2 USDC autonomous bounty] Complete a browser-wallet paid loop",
       "source": "GitHub",
-      "rewardText": "$20 candidate",
+      "rewardText": "Check issue",
       "action": "PR or issue",
-      "note": "cuentaprueba244w-dotcom/zeroeye",
-      "url": "https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/2"
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/248"
+    },
+    {
+      "title": "[1 USDC autonomous bounty] Seed a deterministic-verifier child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/219"
+    },
+    {
+      "title": "[1 USDC autonomous bounty] Seed a useful agent-tooling child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/217"
+    },
+    {
+      "title": "[1 USDC autonomous bounty] Seed an external-user-request child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/220"
     }
   ]
 }
