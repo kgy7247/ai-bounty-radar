@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T03:31:08.194Z",
+  "updatedAt": "2026-07-15T03:31:17.658Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -16,14 +16,6 @@
       "action": "Submit test bounty PR",
       "note": "Validates USDC payment flow after merged PR.",
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
-    },
-    {
-      "title": "BASIS × WORLD3 Partnership Campaign",
-      "source": "Gibwork",
-      "rewardText": "4 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-07-21.",
-      "url": "https://app.gib.work/tasks/22bb0cdb-b89d-49ff-a304-720f1fea032c"
     },
     {
       "title": "Create a Gibwork Product Walkthrough for New Users",
@@ -66,20 +58,20 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "Maintainer change: replace redundant seeds with four 2 USDC deterministic canaries",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/251"
-    },
-    {
       "title": "[2 USDC autonomous bounty] Complete an independent-relayer paid loop",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/250"
+    },
+    {
+      "title": "Maintainer change: replace redundant seeds with four 2 USDC deterministic canaries",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/251"
     },
     {
       "title": "[2 USDC autonomous bounty] Complete a machine-API paid loop",
@@ -98,28 +90,28 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/248"
     },
     {
-      "title": "[1 USDC autonomous bounty] Seed a deterministic-verifier child bounty",
+      "title": "[bounty][funding-pending]: complete the first permissionless autonomous mainnet payout loop",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/219"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/187"
     },
     {
-      "title": "[1 USDC autonomous bounty] Seed a useful agent-tooling child bounty",
+      "title": "[Bounty] [1 USDC autonomous bounty] Seed a deterministic-verifier child bounty",
       "source": "GitHub",
-      "rewardText": "Check issue",
+      "rewardText": "$90 candidate",
       "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/217"
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/481"
     },
     {
-      "title": "[1 USDC autonomous bounty] Seed an external-user-request child bounty",
+      "title": "[2 USDC autonomous bounty] Complete a 16-bit proof-of-work paid loop",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/220"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/244"
     }
   ]
 }
