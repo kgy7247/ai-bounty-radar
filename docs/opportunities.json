@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T03:42:32.470Z",
+  "updatedAt": "2026-07-22T03:43:15.990Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Navigating Extreme Volatility with BASIS: The Edge of Market-Neutral Strategies",
       "source": "Gibwork",
-      "rewardText": "14.000000000000002 USDC pool",
+      "rewardText": "9 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-03.",
       "url": "https://app.gib.work/tasks/cece4ef9-e5db-431a-93bf-f9834908819d"
@@ -32,14 +32,6 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-02.",
       "url": "https://app.gib.work/tasks/b614a67a-42da-44d8-9499-7e6f75cf5c54"
-    },
-    {
-      "title": "X Post Hunt on Discord",
-      "source": "Gibwork",
-      "rewardText": "175 USDC pool",
-      "action": "Submission",
-      "note": "Misc; deadline 2026-07-21.",
-      "url": "https://app.gib.work/tasks/7ed5d5d7-a448-4e2c-8d0b-f145b77ab082"
     },
     {
       "title": "Create an X Video React Post on Gibwork’s Latest Update",
@@ -58,36 +50,12 @@
       "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7"
     },
     {
-      "title": "[2 USDC] Verify canonical settlement evidence",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/360"
-    },
-    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
-    },
-    {
-      "title": "[2 USDC] Implement safe next action for agent claims",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/358"
-    },
-    {
-      "title": "[2 USDC] Select the safest funded bounty for an agent",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/359"
     },
     {
       "title": "[1 USDC standing meta] Seed a paid MCP child bounty",
@@ -120,6 +88,30 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/251"
+    },
+    {
+      "title": "[UNFUNDED: 0/2.01 USDC] Complete a machine-API paid loop",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/249"
+    },
+    {
+      "title": "[BOUNTY] [1 USDC/Post] Continue the story from the last post!",
+      "source": "GitHub",
+      "rewardText": "$1 candidate",
+      "action": "PR or issue",
+      "note": "Iamgoofball/-tg-station",
+      "url": "https://github.com/Iamgoofball/-tg-station/issues/117"
+    },
+    {
+      "title": "[1 USDC standing meta] Seed a paid wallet UX child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
     }
   ]
 }
