@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T03:43:15.990Z",
+  "updatedAt": "2026-07-23T03:42:19.364Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -66,20 +66,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/335"
     },
     {
-      "title": "[1 USDC standing meta] Seed a paid CLI child bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
-    },
-    {
       "title": "[1 USDC standing meta] Seed a paid API child bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/334"
+    },
+    {
+      "title": "[1 USDC standing meta] Seed a paid CLI child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
     },
     {
       "title": "Maintainer change: replace redundant seeds with four 2 USDC deterministic canaries",
@@ -98,20 +98,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/249"
     },
     {
-      "title": "[BOUNTY] [1 USDC/Post] Continue the story from the last post!",
-      "source": "GitHub",
-      "rewardText": "$1 candidate",
-      "action": "PR or issue",
-      "note": "Iamgoofball/-tg-station",
-      "url": "https://github.com/Iamgoofball/-tg-station/issues/117"
-    },
-    {
       "title": "[1 USDC standing meta] Seed a paid wallet UX child bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/336"
+    },
+    {
+      "title": "[BOUNTY] [1 USDC/Post] Continue the story from the last post!",
+      "source": "GitHub",
+      "rewardText": "$1 candidate",
+      "action": "PR or issue",
+      "note": "Iamgoofball/-tg-station",
+      "url": "https://github.com/Iamgoofball/-tg-station/issues/117"
     }
   ]
 }
