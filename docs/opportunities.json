@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T03:42:19.364Z",
+  "updatedAt": "2026-07-24T03:41:04.524Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -16,6 +16,30 @@
       "action": "Submit test bounty PR",
       "note": "Validates USDC payment flow after merged PR.",
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
+    },
+    {
+      "title": "Create an Original X Post About OceanSky Sky Drop",
+      "source": "Gibwork",
+      "rewardText": "10 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-06.",
+      "url": "https://app.gib.work/tasks/675c222b-28f9-42b6-8de8-d938617efb74"
+    },
+    {
+      "title": "Create an X Thread About Gibwork App Earning Alerts",
+      "source": "Gibwork",
+      "rewardText": "50 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-06.",
+      "url": "https://app.gib.work/tasks/47ff5e6b-6d58-488d-8c86-a747ba46f715"
+    },
+    {
+      "title": "Document Submission and Payment Issue With Proof",
+      "source": "Gibwork",
+      "rewardText": "20 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-07-30.",
+      "url": "https://app.gib.work/tasks/f8d270dd-99ba-43d7-8172-2859565bbb88"
     },
     {
       "title": "Navigating Extreme Volatility with BASIS: The Edge of Market-Neutral Strategies",
@@ -58,30 +82,6 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[1 USDC standing meta] Seed a paid MCP child bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/335"
-    },
-    {
-      "title": "[1 USDC standing meta] Seed a paid API child bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/334"
-    },
-    {
-      "title": "[1 USDC standing meta] Seed a paid CLI child bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
-    },
-    {
       "title": "Maintainer change: replace redundant seeds with four 2 USDC deterministic canaries",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -98,20 +98,44 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/249"
     },
     {
-      "title": "[1 USDC standing meta] Seed a paid wallet UX child bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
-    },
-    {
       "title": "[BOUNTY] [1 USDC/Post] Continue the story from the last post!",
       "source": "GitHub",
       "rewardText": "$1 candidate",
       "action": "PR or issue",
       "note": "Iamgoofball/-tg-station",
       "url": "https://github.com/Iamgoofball/-tg-station/issues/117"
+    },
+    {
+      "title": "[Bounty] [1 USDC standing meta] Seed a paid MCP child bounty",
+      "source": "GitHub",
+      "rewardText": "$90 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/511"
+    },
+    {
+      "title": "[Bounty] [1 USDC standing meta] Seed a paid API child bounty",
+      "source": "GitHub",
+      "rewardText": "$90 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/513"
+    },
+    {
+      "title": "[Bounty] [1 USDC standing meta] Seed a paid CLI child bounty",
+      "source": "GitHub",
+      "rewardText": "$90 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/514"
+    },
+    {
+      "title": "[Bounty] [1 USDC standing meta] Seed a paid wallet UX child bounty",
+      "source": "GitHub",
+      "rewardText": "$90 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/512"
     }
   ]
 }
