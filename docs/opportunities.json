@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T03:41:04.524Z",
+  "updatedAt": "2026-07-25T03:34:50.563Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -70,7 +70,7 @@
       "source": "Gibwork",
       "rewardText": "350 USDC pool",
       "action": "Issue or PR",
-      "note": "Development; deadline 2026-07-31.",
+      "note": "Development; deadline 2026-08-31.",
       "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7"
     },
     {
@@ -80,6 +80,38 @@
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
+    },
+    {
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid wallet UX child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
+    },
+    {
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid MCP child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/335"
+    },
+    {
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/334"
+    },
+    {
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid CLI child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
     },
     {
       "title": "Maintainer change: replace redundant seeds with four 2 USDC deterministic canaries",
@@ -104,38 +136,6 @@
       "action": "PR or issue",
       "note": "Iamgoofball/-tg-station",
       "url": "https://github.com/Iamgoofball/-tg-station/issues/117"
-    },
-    {
-      "title": "[Bounty] [1 USDC standing meta] Seed a paid MCP child bounty",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/511"
-    },
-    {
-      "title": "[Bounty] [1 USDC standing meta] Seed a paid API child bounty",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/513"
-    },
-    {
-      "title": "[Bounty] [1 USDC standing meta] Seed a paid CLI child bounty",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/514"
-    },
-    {
-      "title": "[Bounty] [1 USDC standing meta] Seed a paid wallet UX child bounty",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/512"
     }
   ]
 }
