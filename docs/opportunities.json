@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T03:32:18.495Z",
+  "updatedAt": "2026-07-29T03:36:11.498Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,9 +18,17 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Share Your BASIS Staking Experience Pick Your Angle",
+      "source": "Gibwork",
+      "rewardText": "33 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-05.",
+      "url": "https://app.gib.work/tasks/722f0304-8512-4e45-b390-ec0796d6f663"
+    },
+    {
       "title": "Share Your Take on BASIS",
       "source": "Gibwork",
-      "rewardText": "3 USDC pool",
+      "rewardText": "2 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-09.",
       "url": "https://app.gib.work/tasks/6657f9e5-b8be-47b5-9f02-d141de4b03f3"
@@ -28,7 +36,7 @@
     {
       "title": "Pick Your Favorite BASIS Feature & Tweet It!",
       "source": "Gibwork",
-      "rewardText": "11 USDC pool",
+      "rewardText": "9 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-08.",
       "url": "https://app.gib.work/tasks/f1c56c4f-0d68-4b15-9fd4-41f23adf39b6"
@@ -82,6 +90,38 @@
       "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7"
     },
     {
+      "title": "[META] Earn 1 USDC margin with a verifier reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/650"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a agent wallet UX bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/649"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/648"
+    },
+    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
@@ -90,7 +130,7 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[META] Post and complete an agent-discovery bounty for 1 USDC margin",
+      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
@@ -98,23 +138,7 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
     },
     {
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid wallet UX child bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
-    },
-    {
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/334"
-    },
-    {
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid MCP child bounty",
+      "title": "[META] Earn 1 USDC margin with an MCP bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
@@ -122,28 +146,12 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/335"
     },
     {
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid CLI child bounty",
+      "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
-    },
-    {
-      "title": "Maintainer change: replace redundant seeds with four 2 USDC deterministic canaries",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/251"
-    },
-    {
-      "title": "[BOUNTY] [1 USDC/Post] Continue the story from the last post!",
-      "source": "GitHub",
-      "rewardText": "$1 candidate",
-      "action": "PR or issue",
-      "note": "Iamgoofball/-tg-station",
-      "url": "https://github.com/Iamgoofball/-tg-station/issues/117"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
     }
   ]
 }
