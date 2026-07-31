@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T03:25:34.348Z",
+  "updatedAt": "2026-07-31T03:47:47.251Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,17 +18,9 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "Share Your Take on BASIS",
-      "source": "Gibwork",
-      "rewardText": "2 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-09.",
-      "url": "https://app.gib.work/tasks/6657f9e5-b8be-47b5-9f02-d141de4b03f3"
-    },
-    {
       "title": "Pick Your Favorite BASIS Feature & Tweet It!",
       "source": "Gibwork",
-      "rewardText": "9 USDC pool",
+      "rewardText": "8 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-08.",
       "url": "https://app.gib.work/tasks/f1c56c4f-0d68-4b15-9fd4-41f23adf39b6"
@@ -48,14 +40,6 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-06.",
       "url": "https://app.gib.work/tasks/47ff5e6b-6d58-488d-8c86-a747ba46f715"
-    },
-    {
-      "title": "Document Submission and Payment Issue With Proof",
-      "source": "Gibwork",
-      "rewardText": "20 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-07-30.",
-      "url": "https://app.gib.work/tasks/f8d270dd-99ba-43d7-8172-2859565bbb88"
     },
     {
       "title": "Create a Gibwork Product Walkthrough for New Users",
