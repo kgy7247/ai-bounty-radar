@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T03:47:47.251Z",
+  "updatedAt": "2026-08-01T03:47:42.874Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Pick Your Favorite BASIS Feature & Tweet It!",
       "source": "Gibwork",
-      "rewardText": "8 USDC pool",
+      "rewardText": "6 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-08.",
       "url": "https://app.gib.work/tasks/f1c56c4f-0d68-4b15-9fd4-41f23adf39b6"
@@ -50,20 +50,20 @@
       "url": "https://app.gib.work/tasks/b614a67a-42da-44d8-9499-7e6f75cf5c54"
     },
     {
-      "title": "Create an X Video React Post on Gibwork’s Latest Update",
-      "source": "Gibwork",
-      "rewardText": "160 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-07-31.",
-      "url": "https://app.gib.work/tasks/66d9035f-501b-447e-b6dc-8667bfe4dade"
-    },
-    {
       "title": "Improve Gibwork Landing Page or Submit a GitHub Enhancement",
       "source": "Gibwork",
       "rewardText": "350 USDC pool",
       "action": "Issue or PR",
       "note": "Development; deadline 2026-08-31.",
       "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
       "title": "[META] Earn 1 USDC margin with a verifier reliability bounty",
@@ -88,14 +88,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
