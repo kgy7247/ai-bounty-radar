@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T03:50:10.804Z",
+  "updatedAt": "2026-08-03T03:52:02.847Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,9 +18,17 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "Pick Your Favorite BASIS Feature & Tweet It!",
+      "title": "Share Your BASIS Experience — Pick Your Angle",
       "source": "Gibwork",
       "rewardText": "4 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-16.",
+      "url": "https://app.gib.work/tasks/92f738f2-39b7-4469-b42b-9ff13bbbea17"
+    },
+    {
+      "title": "Pick Your Favorite BASIS Feature & Tweet It!",
+      "source": "Gibwork",
+      "rewardText": "3 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-08.",
       "url": "https://app.gib.work/tasks/f1c56c4f-0d68-4b15-9fd4-41f23adf39b6"
@@ -66,20 +74,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/649"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
       "title": "[META] Earn 1 USDC margin with a verifier reliability bounty",
@@ -106,20 +114,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
     },
     {
-      "title": "[META] Earn 1 USDC margin with an MCP bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/335"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/336"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with an MCP bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/335"
     }
   ]
 }
