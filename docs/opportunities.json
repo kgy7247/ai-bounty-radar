@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T03:52:02.847Z",
+  "updatedAt": "2026-08-04T03:34:28.844Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Share Your BASIS Experience — Pick Your Angle",
       "source": "Gibwork",
-      "rewardText": "4 USDC pool",
+      "rewardText": "1 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-16.",
       "url": "https://app.gib.work/tasks/92f738f2-39b7-4469-b42b-9ff13bbbea17"
@@ -40,14 +40,6 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-06.",
       "url": "https://app.gib.work/tasks/675c222b-28f9-42b6-8de8-d938617efb74"
-    },
-    {
-      "title": "Create an X Thread About Gibwork App Earning Alerts",
-      "source": "Gibwork",
-      "rewardText": "50 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-06.",
-      "url": "https://app.gib.work/tasks/47ff5e6b-6d58-488d-8c86-a747ba46f715"
     },
     {
       "title": "Create a Gibwork Product Walkthrough for New Users",
@@ -90,20 +82,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a verifier reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/650"
-    },
-    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a verifier reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/650"
     },
     {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
