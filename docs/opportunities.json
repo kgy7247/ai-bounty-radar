@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T03:29:38.168Z",
+  "updatedAt": "2026-08-06T03:33:42.084Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,20 +18,20 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Attend 3 X Spaces and Collect 3 Reward Codes",
+      "source": "Gibwork",
+      "rewardText": "200 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-19.",
+      "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8"
+    },
+    {
       "title": "BASIS Staking Just Got 10x Faster Pick Your Angle",
       "source": "Gibwork",
-      "rewardText": "6 USDC pool",
+      "rewardText": "3 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-18.",
       "url": "https://app.gib.work/tasks/f2b9c317-c7ee-43a8-bc55-f20f9a9f6986"
-    },
-    {
-      "title": "Pick Your Favorite BASIS Feature & Tweet It!",
-      "source": "Gibwork",
-      "rewardText": "1 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-08.",
-      "url": "https://app.gib.work/tasks/f1c56c4f-0d68-4b15-9fd4-41f23adf39b6"
     },
     {
       "title": "Create an Original X Post About OceanSky Sky Drop",
@@ -58,20 +58,20 @@
       "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a verifier reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/650"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with a agent wallet UX bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/649"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a verifier reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/650"
     },
     {
       "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
