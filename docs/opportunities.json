@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T02:19:35.026Z",
+  "updatedAt": "2026-08-09T02:26:58.708Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,11 +18,19 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Relevant X Bounty Conversation",
+      "source": "Gibwork",
+      "rewardText": "11 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-11.",
+      "url": "https://app.gib.work/tasks/78fac541-f356-4456-a2e6-606e12865708"
+    },
+    {
       "title": "Tri-Proof Points Program — Follow, Like, Repost & Create a Quality Quote Tweet",
       "source": "Gibwork",
       "rewardText": "4 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-08-21.",
+      "note": "Social Media; deadline 2026-08-09.",
       "url": "https://app.gib.work/tasks/c2bcf58e-1a08-40af-a6e7-c8fba98d7c55"
     },
     {
@@ -32,22 +40,6 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-09.",
       "url": "https://app.gib.work/tasks/0c5c997d-9624-4e8d-8742-9c2d20031772"
-    },
-    {
-      "title": "DM proof & Get Response",
-      "source": "Gibwork",
-      "rewardText": "45 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-08.",
-      "url": "https://app.gib.work/tasks/a5970531-6d31-40a1-8136-8851fe3f95ce"
-    },
-    {
-      "title": "Join $100,000 airdrop campaign ",
-      "source": "Gibwork",
-      "rewardText": "2 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-09.",
-      "url": "https://app.gib.work/tasks/89cb8dcd-9829-45d5-a195-b3bdea4d8c3e"
     },
     {
       "title": "Complete Simple Task",
@@ -82,36 +74,12 @@
       "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7"
     },
     {
-      "title": "[PAGAMENTI] Stablecoin - USDC/USDT",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "MyZubster-Ecosystem/MyZubsterGateway",
-      "url": "https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/737"
-    },
-    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/648"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
@@ -138,12 +106,36 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/650"
     },
     {
+      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/648"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a CLI bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
     }
   ]
 }
