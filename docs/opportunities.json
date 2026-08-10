@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:26:58.708Z",
+  "updatedAt": "2026-08-10T02:32:11.064Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,36 +18,20 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Share Your Take on BASIS Explain Market Neutral Strategy",
+      "source": "Gibwork",
+      "rewardText": "8 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-23.",
+      "url": "https://app.gib.work/tasks/3cfc83ba-cb36-4ed0-9264-167a92c2c4e6"
+    },
+    {
       "title": "Relevant X Bounty Conversation",
-      "source": "Gibwork",
-      "rewardText": "11 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-11.",
-      "url": "https://app.gib.work/tasks/78fac541-f356-4456-a2e6-606e12865708"
-    },
-    {
-      "title": "Tri-Proof Points Program — Follow, Like, Repost & Create a Quality Quote Tweet",
-      "source": "Gibwork",
-      "rewardText": "4 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-09.",
-      "url": "https://app.gib.work/tasks/c2bcf58e-1a08-40af-a6e7-c8fba98d7c55"
-    },
-    {
-      "title": "JOIN THE MOONCLAVE CAMPAIGN",
       "source": "Gibwork",
       "rewardText": "5 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-08-09.",
-      "url": "https://app.gib.work/tasks/0c5c997d-9624-4e8d-8742-9c2d20031772"
-    },
-    {
-      "title": "Complete Simple Task",
-      "source": "Gibwork",
-      "rewardText": "2 USDC pool",
-      "action": "Submission",
-      "note": "Misc; deadline 2026-08-09.",
-      "url": "https://app.gib.work/tasks/02b8e300-9065-4468-bfba-0676d399ea81"
+      "note": "Social Media; deadline 2026-08-11.",
+      "url": "https://app.gib.work/tasks/78fac541-f356-4456-a2e6-606e12865708"
     },
     {
       "title": "Attend 3 X Spaces and Collect 3 Reward Codes",
@@ -98,12 +82,12 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/649"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a verifier reliability bounty",
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/650"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
       "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
@@ -114,12 +98,12 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "title": "[META] Earn 1 USDC margin with a verifier reliability bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/650"
     },
     {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
@@ -130,12 +114,12 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a CLI bounty",
+      "title": "[META] Earn 1 USDC margin with an MCP bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/335"
     }
   ]
 }
