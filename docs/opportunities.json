@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T02:25:28.246Z",
+  "updatedAt": "2026-08-12T02:42:09.619Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,28 +18,28 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "Test Tri-Proof Sybil Analysis & Share Your Findings — $10 Reward Pool",
+      "title": "Create a Discord Script",
       "source": "Gibwork",
-      "rewardText": "10 USDC pool",
+      "rewardText": "60 USDC pool",
+      "action": "Issue or PR",
+      "note": "Development; deadline 2026-08-25.",
+      "url": "https://app.gib.work/tasks/eb27b396-5766-4a8f-ab60-5a41a2cc3e0b"
+    },
+    {
+      "title": "Join Startale App & Explore Soneium",
+      "source": "Gibwork",
+      "rewardText": "3 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-08-14.",
-      "url": "https://app.gib.work/tasks/d7bf57ad-810f-4172-a7b1-1f3b031b6299"
+      "note": "Misc; deadline 2026-08-21.",
+      "url": "https://app.gib.work/tasks/d7de3fee-f45c-4f16-97e2-b95e5a8bf228"
     },
     {
       "title": "Share Your BASIS Staking Experience Pick Your Angle",
       "source": "Gibwork",
-      "rewardText": "22 USDC pool",
+      "rewardText": "2 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-24.",
       "url": "https://app.gib.work/tasks/ba6f9835-0f37-4324-8643-04480d1add67"
-    },
-    {
-      "title": "Relevant X Bounty Conversation",
-      "source": "Gibwork",
-      "rewardText": "5 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-11.",
-      "url": "https://app.gib.work/tasks/78fac541-f356-4456-a2e6-606e12865708"
     },
     {
       "title": "Attend 3 X Spaces and Collect 3 Reward Codes",
