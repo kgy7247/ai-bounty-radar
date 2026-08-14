@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T02:44:49.008Z",
+  "updatedAt": "2026-08-14T02:43:13.197Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,20 +18,20 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Share Your Take on the ETF Divergence Pick Your Angle",
+      "source": "Gibwork",
+      "rewardText": "1 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-27.",
+      "url": "https://app.gib.work/tasks/ebd6a5a3-d9e4-49dc-9954-9ae2a312e084"
+    },
+    {
       "title": "Write an X post about Velo (Hedera DeFi)",
       "source": "Gibwork",
       "rewardText": "30 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-11.",
       "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790"
-    },
-    {
-      "title": "BASIS vs. What You Used Before Pick Your Comparison Angle",
-      "source": "Gibwork",
-      "rewardText": "2 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-26.",
-      "url": "https://app.gib.work/tasks/31bfd006-76ef-49cd-8ab3-845bf31d85ce"
     },
     {
       "title": "Create a Discord Script",
