@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:47:51.490Z",
+  "updatedAt": "2026-08-16T01:56:04.824Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,20 +18,28 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Bug testing bounty for Sol.new on desktop and mobile",
+      "source": "Gibwork",
+      "rewardText": "50 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-08-30.",
+      "url": "https://app.gib.work/tasks/dd96b116-5d54-4e59-9cc2-fcd281b5abc6"
+    },
+    {
+      "title": "Share Your BASIS Rewards Experience — Pick Your Angle",
+      "source": "Gibwork",
+      "rewardText": "4 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-29.",
+      "url": "https://app.gib.work/tasks/dae4fdd4-2888-4a0d-91a6-5de7d6f41880"
+    },
+    {
       "title": "Challenge: Complete the Most Requests and Win $200",
       "source": "Gibwork",
       "rewardText": "200 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-28.",
       "url": "https://app.gib.work/tasks/2b789b47-9727-471c-a955-9e3a40894de2"
-    },
-    {
-      "title": "Share Your Take on the ETF Divergence Pick Your Angle",
-      "source": "Gibwork",
-      "rewardText": "1 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-27.",
-      "url": "https://app.gib.work/tasks/ebd6a5a3-d9e4-49dc-9954-9ae2a312e084"
     },
     {
       "title": "Write an X post about Velo (Hedera DeFi)",
