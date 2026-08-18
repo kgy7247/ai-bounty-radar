@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T01:53:45.677Z",
+  "updatedAt": "2026-08-18T01:49:02.433Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,20 +18,28 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Join Startale App",
+      "source": "Gibwork",
+      "rewardText": "10 USDC pool",
+      "action": "Submission",
+      "note": "Misc; deadline 2026-08-31.",
+      "url": "https://app.gib.work/tasks/8470175e-97da-49e8-9b23-4ce91766eb7e"
+    },
+    {
+      "title": "Share Your BASIS Portfolio Pick ONE angle",
+      "source": "Gibwork",
+      "rewardText": "4 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-21.",
+      "url": "https://app.gib.work/tasks/bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1"
+    },
+    {
       "title": "Give feedback on the devrels.xyz onboarding bounty",
       "source": "Gibwork",
       "rewardText": "25 USDC pool",
       "action": "Submission",
       "note": "Design; deadline 2026-08-30.",
       "url": "https://app.gib.work/tasks/0695edbb-c9c1-4dcd-a257-496658d0cb09"
-    },
-    {
-      "title": "Share Your BASIS Rewards Experience — Pick Your Angle",
-      "source": "Gibwork",
-      "rewardText": "5 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-29.",
-      "url": "https://app.gib.work/tasks/dae4fdd4-2888-4a0d-91a6-5de7d6f41880"
     },
     {
       "title": "Challenge: Complete the Most Requests and Win $200",
@@ -62,7 +70,7 @@
       "source": "Gibwork",
       "rewardText": "200 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-08-19.",
+      "note": "Social Media; deadline 2026-08-26.",
       "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8"
     },
     {
