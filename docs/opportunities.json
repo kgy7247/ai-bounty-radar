@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T01:51:12.794Z",
+  "updatedAt": "2026-08-20T01:49:41.549Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,12 +18,12 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "Test cryptofootball.fun bounty on desktop and mobile",
+      "title": "Test Snake Seeker and Seeker Mobile iOS bounty",
       "source": "Gibwork",
-      "rewardText": "10 USDC pool",
+      "rewardText": "25 USDC pool",
       "action": "Submission",
-      "note": "Design; deadline 2026-09-01.",
-      "url": "https://app.gib.work/tasks/fc06efa7-6b9d-42a2-ac38-24773347cb39"
+      "note": "Design; deadline 2026-09-03.",
+      "url": "https://app.gib.work/tasks/6d655bbb-80f2-48ed-8dab-63416dea1842"
     },
     {
       "title": "Join Startale App",
@@ -36,7 +36,7 @@
     {
       "title": "Share Your BASIS Portfolio Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "2 USDC pool",
+      "rewardText": "1 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-08-21.",
       "url": "https://app.gib.work/tasks/bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1"
@@ -106,12 +106,12 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
       "source": "GitHub",
-      "rewardText": "Check issue",
+      "rewardText": "$15,000 candidate",
       "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/651"
+      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     },
     {
       "title": "[META] Earn 1 USDC margin with a API reliability bounty",
@@ -128,6 +128,14 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/651"
     },
     {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
@@ -152,14 +160,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/334"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a CLI bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
     }
   ]
 }
