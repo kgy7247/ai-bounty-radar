@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:49:41.549Z",
+  "updatedAt": "2026-08-21T01:55:56.750Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,6 +18,14 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
+      "source": "Gibwork",
+      "rewardText": "52 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-03.",
+      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c"
+    },
+    {
       "title": "Test Snake Seeker and Seeker Mobile iOS bounty",
       "source": "Gibwork",
       "rewardText": "25 USDC pool",
@@ -32,14 +40,6 @@
       "action": "Submission",
       "note": "Misc; deadline 2026-08-31.",
       "url": "https://app.gib.work/tasks/8470175e-97da-49e8-9b23-4ce91766eb7e"
-    },
-    {
-      "title": "Share Your BASIS Portfolio Pick ONE angle",
-      "source": "Gibwork",
-      "rewardText": "1 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-21.",
-      "url": "https://app.gib.work/tasks/bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1"
     },
     {
       "title": "Give feedback on the devrels.xyz onboarding bounty",
