@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:55:56.750Z",
+  "updatedAt": "2026-08-22T01:48:11.891Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,9 +18,33 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Make a list of 500 Active X accounts about History.",
+      "source": "Gibwork",
+      "rewardText": "80 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-24.",
+      "url": "https://app.gib.work/tasks/5d7953e7-a1d8-4729-aa9b-b996cabed4f2"
+    },
+    {
+      "title": "Test Geiger Bot onboarding bounty",
+      "source": "Gibwork",
+      "rewardText": "20 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-09-04.",
+      "url": "https://app.gib.work/tasks/d47feaff-8dcd-4831-89df-0a1ea2209fb2"
+    },
+    {
+      "title": "Share How You Got Started with BASIS Pick ONE angle",
+      "source": "Gibwork",
+      "rewardText": "66 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-04.",
+      "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8"
+    },
+    {
       "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "52 USDC pool",
+      "rewardText": "38 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-03.",
       "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c"
@@ -72,30 +96,6 @@
       "action": "Issue or PR",
       "note": "Development; deadline 2026-08-25.",
       "url": "https://app.gib.work/tasks/eb27b396-5766-4a8f-ab60-5a41a2cc3e0b"
-    },
-    {
-      "title": "Attend 3 X Spaces and Collect 3 Reward Codes",
-      "source": "Gibwork",
-      "rewardText": "200 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-08-26.",
-      "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8"
-    },
-    {
-      "title": "Create a Gibwork Product Walkthrough for New Users",
-      "source": "Gibwork",
-      "rewardText": "300 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-02.",
-      "url": "https://app.gib.work/tasks/b614a67a-42da-44d8-9499-7e6f75cf5c54"
-    },
-    {
-      "title": "Improve Gibwork Landing Page or Submit a GitHub Enhancement",
-      "source": "Gibwork",
-      "rewardText": "350 USDC pool",
-      "action": "Issue or PR",
-      "note": "Development; deadline 2026-08-31.",
-      "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
