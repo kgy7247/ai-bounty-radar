@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T01:50:24.068Z",
+  "updatedAt": "2026-08-26T01:56:38.347Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -28,7 +28,7 @@
     {
       "title": "Share Your BASIS Strategy Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "100 USDC pool",
+      "rewardText": "10 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-07.",
       "url": "https://app.gib.work/tasks/f4fe8999-c31a-49f0-9746-abc60385f605"
@@ -44,7 +44,7 @@
     {
       "title": "Share How You Got Started with BASIS Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "19 USDC pool",
+      "rewardText": "13 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-04.",
       "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8"
@@ -52,7 +52,7 @@
     {
       "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "18 USDC pool",
+      "rewardText": "12 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-03.",
       "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c"
@@ -64,14 +64,6 @@
       "action": "Submission",
       "note": "Design; deadline 2026-09-03.",
       "url": "https://app.gib.work/tasks/6d655bbb-80f2-48ed-8dab-63416dea1842"
-    },
-    {
-      "title": "Join Startale App",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Misc; deadline 2026-08-31.",
-      "url": "https://app.gib.work/tasks/8470175e-97da-49e8-9b23-4ce91766eb7e"
     },
     {
       "title": "Give feedback on the devrels.xyz onboarding bounty",
@@ -92,10 +84,18 @@
     {
       "title": "Write an X post about Velo (Hedera DeFi)",
       "source": "Gibwork",
-      "rewardText": "13 USDC pool",
+      "rewardText": "4 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-11.",
       "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790"
+    },
+    {
+      "title": "Attend 3 X Spaces and Collect 3 Reward Codes",
+      "source": "Gibwork",
+      "rewardText": "200 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-08-29.",
+      "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8"
     },
     {
       "title": "[BOUNTY] Break the NFH Wake holder gate — 25 USDC",
