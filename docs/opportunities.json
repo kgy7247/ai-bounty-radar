@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T09:43:42.011Z",
+  "updatedAt": "2026-08-28T11:20:26.221Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,28 +18,28 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "Engage with 3 X posts using one account",
+      "title": "Axzra Discord Invite Contest",
       "source": "Gibwork",
-      "rewardText": "1.1 USDC pool",
+      "rewardText": "20 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-11.",
+      "url": "https://app.gib.work/tasks/c68fa3dc-28d1-42ae-875a-e61b71fa2ea8"
+    },
+    {
+      "title": "Amplify BASIS × Zypher DAO Retweet, Like & Comment",
+      "source": "Gibwork",
+      "rewardText": "43 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-11.",
+      "url": "https://app.gib.work/tasks/a3d8251f-c86b-4b7e-93f0-7004fb41ba5c"
+    },
+    {
+      "title": "Download, Rate & Review RafTech App",
+      "source": "Gibwork",
+      "rewardText": "12 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-10.",
-      "url": "https://app.gib.work/tasks/4afddf5d-1847-4ec4-a024-ca21d811d318"
-    },
-    {
-      "title": "Sign Up On VeryChat App",
-      "source": "Gibwork",
-      "rewardText": "3.5 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-09-09.",
-      "url": "https://app.gib.work/tasks/52d793b9-5e2c-4a7b-8981-94edcc4807a9"
-    },
-    {
-      "title": "Axzra Outreach Agent QRT Bounty",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-07.",
-      "url": "https://app.gib.work/tasks/813ca5bf-58e3-4d8e-a3e6-3e0e8d4b7afa"
+      "url": "https://app.gib.work/tasks/85d0195f-f763-45e6-b574-e9d8aee40aa5"
     },
     {
       "title": "Test Geiger Bot onboarding bounty",
@@ -52,7 +52,7 @@
     {
       "title": "Share How You Got Started with BASIS Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "8 USDC pool",
+      "rewardText": "6 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-04.",
       "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8"
@@ -60,7 +60,7 @@
     {
       "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "8 USDC pool",
+      "rewardText": "6 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-03.",
       "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c"
@@ -138,14 +138,6 @@
       "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     },
     {
-      "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
-      "source": "GitHub",
-      "rewardText": "$25 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -154,12 +146,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
     },
     {
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
+      "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
+      "source": "GitHub",
+      "rewardText": "$25 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
+    },
+    {
+      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/334"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/861"
     }
   ]
 }
