@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T07:01:34.206Z",
+  "updatedAt": "2026-08-30T05:21:09.466Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,12 +18,12 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "Engage with tiktok video and earn",
+      "title": "Create an X thread for Paid Requests",
       "source": "Gibwork",
-      "rewardText": "2 USDC pool",
+      "rewardText": "125 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-08-29.",
-      "url": "https://app.gib.work/tasks/ef8b7bc6-1f98-42bb-b7ae-2e2f57251a39"
+      "note": "Social Media; deadline 2026-09-12.",
+      "url": "https://app.gib.work/tasks/53b0737a-3a6b-475b-a965-4a2a00016875"
     },
     {
       "title": "Axzra Discord Invite Contest",
@@ -32,14 +32,6 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-11.",
       "url": "https://app.gib.work/tasks/c68fa3dc-28d1-42ae-875a-e61b71fa2ea8"
-    },
-    {
-      "title": "Download, Rate & Review RafTech App",
-      "source": "Gibwork",
-      "rewardText": "12 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-10.",
-      "url": "https://app.gib.work/tasks/85d0195f-f763-45e6-b574-e9d8aee40aa5"
     },
     {
       "title": "Test Geiger Bot onboarding bounty",
@@ -98,20 +90,20 @@
       "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790"
     },
     {
+      "title": "Attend 3 X Spaces and Collect 3 Reward Codes",
+      "source": "Gibwork",
+      "rewardText": "200 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-05.",
+      "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8"
+    },
+    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/651"
     },
     {
       "title": "[META] Earn 1 USDC margin with a API reliability bounty",
@@ -122,6 +114,14 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
+      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/651"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -130,20 +130,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     },
     {
-      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
-      "source": "GitHub",
-      "rewardText": "$15,000 candidate",
-      "action": "PR or issue",
-      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
+    },
+    {
+      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
+      "source": "GitHub",
+      "rewardText": "$15,000 candidate",
+      "action": "PR or issue",
+      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     },
     {
       "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
