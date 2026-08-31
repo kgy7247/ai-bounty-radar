@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T05:21:09.466Z",
+  "updatedAt": "2026-08-31T05:29:46.076Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -16,6 +16,22 @@
       "action": "Submit test bounty PR",
       "note": "Validates USDC payment flow after merged PR.",
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
+    },
+    {
+      "title": "How Do You Track Your BASIS DRR? Pick ONE angle",
+      "source": "Gibwork",
+      "rewardText": "100 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-14.",
+      "url": "https://app.gib.work/tasks/4b55b586-5d56-4456-aca0-dab87ffca357"
+    },
+    {
+      "title": "Which Booster Do You Run on BASIS? Pick ONE angle",
+      "source": "Gibwork",
+      "rewardText": "23 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-14.",
+      "url": "https://app.gib.work/tasks/266a2a3d-330a-4c31-bc5e-5e6bd7d58468"
     },
     {
       "title": "Create an X thread for Paid Requests",
@@ -44,7 +60,7 @@
     {
       "title": "Share How You Got Started with BASIS Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "4 USDC pool",
+      "rewardText": "3 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-04.",
       "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8"
@@ -66,14 +82,6 @@
       "url": "https://app.gib.work/tasks/6d655bbb-80f2-48ed-8dab-63416dea1842"
     },
     {
-      "title": "Give feedback on the devrels.xyz onboarding bounty",
-      "source": "Gibwork",
-      "rewardText": "25 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-08-30.",
-      "url": "https://app.gib.work/tasks/0695edbb-c9c1-4dcd-a257-496658d0cb09"
-    },
-    {
       "title": "Challenge: Complete the Most Requests and Win $200",
       "source": "Gibwork",
       "rewardText": "200 USDC pool",
@@ -88,14 +96,6 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-11.",
       "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790"
-    },
-    {
-      "title": "Attend 3 X Spaces and Collect 3 Reward Codes",
-      "source": "Gibwork",
-      "rewardText": "200 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-05.",
-      "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
@@ -130,20 +130,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     },
     {
-      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/590"
-    },
-    {
       "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
       "source": "GitHub",
       "rewardText": "$15,000 candidate",
       "action": "PR or issue",
       "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
       "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/590"
     },
     {
       "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
