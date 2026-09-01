@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:29:46.076Z",
+  "updatedAt": "2026-09-01T05:03:55.221Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,84 +18,12 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "How Do You Track Your BASIS DRR? Pick ONE angle",
-      "source": "Gibwork",
-      "rewardText": "100 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-14.",
-      "url": "https://app.gib.work/tasks/4b55b586-5d56-4456-aca0-dab87ffca357"
-    },
-    {
-      "title": "Which Booster Do You Run on BASIS? Pick ONE angle",
-      "source": "Gibwork",
-      "rewardText": "23 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-14.",
-      "url": "https://app.gib.work/tasks/266a2a3d-330a-4c31-bc5e-5e6bd7d58468"
-    },
-    {
-      "title": "Create an X thread for Paid Requests",
-      "source": "Gibwork",
-      "rewardText": "125 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-12.",
-      "url": "https://app.gib.work/tasks/53b0737a-3a6b-475b-a965-4a2a00016875"
-    },
-    {
-      "title": "Axzra Discord Invite Contest",
-      "source": "Gibwork",
-      "rewardText": "20 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-11.",
-      "url": "https://app.gib.work/tasks/c68fa3dc-28d1-42ae-875a-e61b71fa2ea8"
-    },
-    {
-      "title": "Test Geiger Bot onboarding bounty",
-      "source": "Gibwork",
-      "rewardText": "20 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-09-04.",
-      "url": "https://app.gib.work/tasks/d47feaff-8dcd-4831-89df-0a1ea2209fb2"
-    },
-    {
-      "title": "Share How You Got Started with BASIS Pick ONE angle",
-      "source": "Gibwork",
-      "rewardText": "3 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-04.",
-      "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8"
-    },
-    {
-      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
-      "source": "Gibwork",
-      "rewardText": "3 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-03.",
-      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c"
-    },
-    {
-      "title": "Test Snake Seeker and Seeker Mobile iOS bounty",
-      "source": "Gibwork",
-      "rewardText": "25 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-09-03.",
-      "url": "https://app.gib.work/tasks/6d655bbb-80f2-48ed-8dab-63416dea1842"
-    },
-    {
-      "title": "Challenge: Complete the Most Requests and Win $200",
-      "source": "Gibwork",
-      "rewardText": "200 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-04.",
-      "url": "https://app.gib.work/tasks/2b789b47-9727-471c-a955-9e3a40894de2"
-    },
-    {
-      "title": "Write an X post about Velo (Hedera DeFi)",
-      "source": "Gibwork",
-      "rewardText": "4 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-11.",
-      "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790"
+      "title": "gibwork scan failed",
+      "source": "Scanner",
+      "rewardText": "",
+      "action": "Retry",
+      "note": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "url": "https://github.com/kgy7247/ai-bounty-radar"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
@@ -104,6 +32,14 @@
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     },
     {
       "title": "[META] Earn 1 USDC margin with a API reliability bounty",
@@ -120,14 +56,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/651"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     },
     {
       "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
@@ -154,12 +82,12 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
     },
     {
-      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
+      "title": "[Bug] .nvmrc pins 20.19.5 while CI still uses node-version: 20",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/861"
+      "note": "Hazyshades/Sendly-Test-Repo",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/260"
     }
   ]
 }
