@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T05:03:55.221Z",
+  "updatedAt": "2026-09-02T04:29:09.120Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -66,14 +66,6 @@
       "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     },
     {
-      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/590"
-    },
-    {
       "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
       "source": "GitHub",
       "rewardText": "$25 candidate",
@@ -82,12 +74,20 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
     },
     {
-      "title": "[Bug] .nvmrc pins 20.19.5 while CI still uses node-version: 20",
+      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
-      "note": "Hazyshades/Sendly-Test-Repo",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/260"
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/590"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
     }
   ]
 }
