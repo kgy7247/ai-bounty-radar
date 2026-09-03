@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T04:29:09.120Z",
+  "updatedAt": "2026-09-03T04:20:02.980Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -66,20 +66,20 @@
       "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     },
     {
-      "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
-      "source": "GitHub",
-      "rewardText": "$25 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
+    },
+    {
+      "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
+      "source": "GitHub",
+      "rewardText": "$25 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
     },
     {
       "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
