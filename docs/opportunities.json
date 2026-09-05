@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T04:28:31.063Z",
+  "updatedAt": "2026-09-05T04:23:04.538Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,6 +42,14 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     },
     {
+      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/651"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with a API reliability bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -50,12 +58,12 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
       "source": "GitHub",
-      "rewardText": "Check issue",
+      "rewardText": "$25 candidate",
       "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/651"
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
     },
     {
       "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
@@ -72,14 +80,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
-    },
-    {
-      "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
-      "source": "GitHub",
-      "rewardText": "$25 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
     },
     {
       "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
