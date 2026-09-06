@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T04:23:04.538Z",
+  "updatedAt": "2026-09-06T04:34:39.889Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -34,6 +34,14 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -48,14 +56,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/651"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
       "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
