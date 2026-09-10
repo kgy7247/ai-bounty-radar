@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T04:38:16.056Z",
+  "updatedAt": "2026-09-10T04:38:18.465Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -26,6 +26,14 @@
       "url": "https://app.gib.work/tasks/1052f22d-3f87-4b1d-b0d7-71a60679e7fa"
     },
     {
+      "title": "Share Your BASIS Story Pick ONE Theme",
+      "source": "Gibwork",
+      "rewardText": "2 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-23.",
+      "url": "https://app.gib.work/tasks/620aefdd-f96f-4f3f-8d12-ce0a39c5a836"
+    },
+    {
       "title": "Challenge: Complete the Most Requests and Win $200",
       "source": "Gibwork",
       "rewardText": "200 USDC pool",
@@ -40,14 +48,6 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-12.",
       "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8"
-    },
-    {
-      "title": "Auto Earn Is Live Share Your Take on X",
-      "source": "Gibwork",
-      "rewardText": "2 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-21.",
-      "url": "https://app.gib.work/tasks/f949b047-65ad-4741-8419-d03184b78fb1"
     },
     {
       "title": "Introduce Yourself to the Community",
@@ -88,6 +88,14 @@
       "action": "Submission",
       "note": "Design; deadline 2026-09-18.",
       "url": "https://app.gib.work/tasks/5a3a08d1-6258-47bb-bc64-41497335b472"
+    },
+    {
+      "title": "Flaunt your Verychat Login Streaks",
+      "source": "Gibwork",
+      "rewardText": "4 USDC pool",
+      "action": "Issue or PR",
+      "note": "Development; deadline 2026-09-16.",
+      "url": "https://app.gib.work/tasks/ebf78998-24c3-426f-a0b0-81d0698d9bd9"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
