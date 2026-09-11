@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T04:38:18.465Z",
+  "updatedAt": "2026-09-11T04:36:03.845Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -26,28 +26,20 @@
       "url": "https://app.gib.work/tasks/1052f22d-3f87-4b1d-b0d7-71a60679e7fa"
     },
     {
+      "title": "Refer. Share. Win upto $300 USDC",
+      "source": "Gibwork",
+      "rewardText": "300 CREDITS pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-11.",
+      "url": "https://app.gib.work/tasks/cc14599e-ed38-4bdc-b55a-09cd8f8c1010"
+    },
+    {
       "title": "Share Your BASIS Story Pick ONE Theme",
       "source": "Gibwork",
       "rewardText": "2 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-23.",
       "url": "https://app.gib.work/tasks/620aefdd-f96f-4f3f-8d12-ce0a39c5a836"
-    },
-    {
-      "title": "Challenge: Complete the Most Requests and Win $200",
-      "source": "Gibwork",
-      "rewardText": "200 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-11.",
-      "url": "https://app.gib.work/tasks/2b789b47-9727-471c-a955-9e3a40894de2"
-    },
-    {
-      "title": "Attend 3 X Spaces and Collect 3 Reward Codes",
-      "source": "Gibwork",
-      "rewardText": "200 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-12.",
-      "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8"
     },
     {
       "title": "Introduce Yourself to the Community",
@@ -106,6 +98,14 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -122,28 +122,12 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
-    },
-    {
-      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
-      "source": "GitHub",
-      "rewardText": "$15,000 candidate",
-      "action": "PR or issue",
-      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     },
     {
       "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
@@ -154,12 +138,20 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
     },
     {
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
+      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
+      "source": "GitHub",
+      "rewardText": "$15,000 candidate",
+      "action": "PR or issue",
+      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a CLI bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/334"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
     }
   ]
 }
