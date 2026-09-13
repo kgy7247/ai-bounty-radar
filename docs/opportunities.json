@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T04:31:05.595Z",
+  "updatedAt": "2026-09-13T04:43:21.616Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -36,10 +36,18 @@
     {
       "title": "Share How You Actually Use BASIS Pick ONE Theme",
       "source": "Gibwork",
-      "rewardText": "145 USDC pool",
+      "rewardText": "2 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-25.",
       "url": "https://app.gib.work/tasks/8d21b03d-1649-479c-91c7-b73023af08b3"
+    },
+    {
+      "title": "Share Your BASIS Week Pick ONE Theme",
+      "source": "Gibwork",
+      "rewardText": "150 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-27.",
+      "url": "https://app.gib.work/tasks/a5ec2956-3f86-4a13-9fef-a3623c563a2e"
     },
     {
       "title": "Introduce Yourself to the Community",
@@ -48,14 +56,6 @@
       "action": "Submission",
       "note": "Design; deadline 2026-09-20.",
       "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c"
-    },
-    {
-      "title": "Create an X thread for Paid Requests",
-      "source": "Gibwork",
-      "rewardText": "125 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-12.",
-      "url": "https://app.gib.work/tasks/53b0737a-3a6b-475b-a965-4a2a00016875"
     },
     {
       "title": "Axzra outreach Agent's Bounty ",
@@ -68,7 +68,7 @@
     {
       "title": "Engage with @DHiveWorkng on Twitter/X",
       "source": "Gibwork",
-      "rewardText": "10 USDC pool",
+      "rewardText": "5 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-25.",
       "url": "https://app.gib.work/tasks/e2e5aaca-3749-434f-bfd2-ffa3c6f0a9b3"
