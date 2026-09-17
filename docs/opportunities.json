@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T04:46:02.412Z",
+  "updatedAt": "2026-09-17T04:49:08.388Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -26,20 +26,20 @@
       "url": "https://app.gib.work/tasks/1052f22d-3f87-4b1d-b0d7-71a60679e7fa"
     },
     {
-      "title": "Amplify the BASIS × Numbers Protocol Partnership Retweet + Comment",
-      "source": "Gibwork",
-      "rewardText": "2 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-29.",
-      "url": "https://app.gib.work/tasks/4c0562b6-ae1b-41a3-b7c2-ffd7107772d7"
-    },
-    {
       "title": "Refer. Share. Win upto $300 USDC",
       "source": "Gibwork",
       "rewardText": "300 CREDITS pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-11.",
       "url": "https://app.gib.work/tasks/cc14599e-ed38-4bdc-b55a-09cd8f8c1010"
+    },
+    {
+      "title": "Create a UGC Video Bounty for the Gibwork Mobile App",
+      "source": "Gibwork",
+      "rewardText": "300 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-30.",
+      "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
       "title": "Share Your BASIS Week Pick ONE Theme",
@@ -52,7 +52,7 @@
     {
       "title": "Share Your BASIS Story Pick ONE Theme",
       "source": "Gibwork",
-      "rewardText": "100 USDC pool",
+      "rewardText": "0.9999999999999999 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-29.",
       "url": "https://app.gib.work/tasks/04c6d040-c4c0-4bc8-93b3-29f820360959"
@@ -74,12 +74,28 @@
       "url": "https://app.gib.work/tasks/ce839876-bf1f-42b7-914b-dd59f8fea1fb"
     },
     {
-      "title": "Flaunt your Verychat Login Streaks",
+      "title": "Draft the Next @gib_work Post",
       "source": "Gibwork",
-      "rewardText": "2 USDC pool",
-      "action": "Issue or PR",
-      "note": "Development; deadline 2026-09-16.",
-      "url": "https://app.gib.work/tasks/ebf78998-24c3-426f-a0b0-81d0698d9bd9"
+      "rewardText": "25 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-23.",
+      "url": "https://app.gib.work/tasks/612d9f96-a0fd-4da5-9898-ee10045150de"
+    },
+    {
+      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $7.50",
+      "source": "Gibwork",
+      "rewardText": "7.5 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-19.",
+      "url": "https://app.gib.work/tasks/a45a23d2-cbf7-4676-9d85-a66b0577f6e7"
+    },
+    {
+      "title": "Invite a Developer to the Gibwork Hackathon and Get a Reply",
+      "source": "Gibwork",
+      "rewardText": "6.67 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-18.",
+      "url": "https://app.gib.work/tasks/9cb4ea62-de10-46f2-a697-8a4499681336"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
