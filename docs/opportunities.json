@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T04:49:08.388Z",
+  "updatedAt": "2026-09-18T04:39:54.355Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -58,6 +58,14 @@
       "url": "https://app.gib.work/tasks/04c6d040-c4c0-4bc8-93b3-29f820360959"
     },
     {
+      "title": " What Was Signing Up on BASIS Actually Like? Pick ONE angle",
+      "source": "Gibwork",
+      "rewardText": "48 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-01.",
+      "url": "https://app.gib.work/tasks/246b7725-f9d9-468b-8d71-34bab4687325"
+    },
+    {
       "title": "Introduce Yourself to the Community",
       "source": "Gibwork",
       "rewardText": "120 USDC pool",
@@ -66,11 +74,19 @@
       "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c"
     },
     {
+      "title": "Create, launch, or market-make on tsunammi",
+      "source": "Gibwork",
+      "rewardText": "100 USDC pool",
+      "action": "Submission",
+      "note": "Feedback; deadline 2026-09-22.",
+      "url": "https://app.gib.work/tasks/59099bb9-ebb4-430d-8f39-d4356e62a94a"
+    },
+    {
       "title": "Axzra outreach Agent's Bounty ",
       "source": "Gibwork",
       "rewardText": "50 USDC pool",
       "action": "Issue or PR",
-      "note": "Development; deadline 2026-09-18.",
+      "note": "Development; deadline 2026-09-21.",
       "url": "https://app.gib.work/tasks/ce839876-bf1f-42b7-914b-dd59f8fea1fb"
     },
     {
@@ -82,22 +98,6 @@
       "url": "https://app.gib.work/tasks/612d9f96-a0fd-4da5-9898-ee10045150de"
     },
     {
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $7.50",
-      "source": "Gibwork",
-      "rewardText": "7.5 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-19.",
-      "url": "https://app.gib.work/tasks/a45a23d2-cbf7-4676-9d85-a66b0577f6e7"
-    },
-    {
-      "title": "Invite a Developer to the Gibwork Hackathon and Get a Reply",
-      "source": "Gibwork",
-      "rewardText": "6.67 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-09-18.",
-      "url": "https://app.gib.work/tasks/9cb4ea62-de10-46f2-a697-8a4499681336"
-    },
-    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
@@ -106,20 +106,20 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/651"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
       "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
