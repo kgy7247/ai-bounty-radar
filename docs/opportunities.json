@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T04:39:54.355Z",
+  "updatedAt": "2026-09-19T04:34:11.985Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -50,20 +50,12 @@
       "url": "https://app.gib.work/tasks/a5ec2956-3f86-4a13-9fef-a3623c563a2e"
     },
     {
-      "title": "Share Your BASIS Story Pick ONE Theme",
+      "title": "Share Your BASIS Numbers Pick ONE Topic",
       "source": "Gibwork",
-      "rewardText": "0.9999999999999999 USDC pool",
+      "rewardText": "147 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-09-29.",
-      "url": "https://app.gib.work/tasks/04c6d040-c4c0-4bc8-93b3-29f820360959"
-    },
-    {
-      "title": " What Was Signing Up on BASIS Actually Like? Pick ONE angle",
-      "source": "Gibwork",
-      "rewardText": "48 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-01.",
-      "url": "https://app.gib.work/tasks/246b7725-f9d9-468b-8d71-34bab4687325"
+      "note": "Social Media; deadline 2026-10-03.",
+      "url": "https://app.gib.work/tasks/b3a45773-f2f9-4b12-844e-b8a635e4bc6f"
     },
     {
       "title": "Introduce Yourself to the Community",
@@ -88,6 +80,14 @@
       "action": "Issue or PR",
       "note": "Development; deadline 2026-09-21.",
       "url": "https://app.gib.work/tasks/ce839876-bf1f-42b7-914b-dd59f8fea1fb"
+    },
+    {
+      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
+      "source": "Gibwork",
+      "rewardText": "30 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-02.",
+      "url": "https://app.gib.work/tasks/25ffe152-f790-4d2a-9640-792a0773669f"
     },
     {
       "title": "Draft the Next @gib_work Post",
