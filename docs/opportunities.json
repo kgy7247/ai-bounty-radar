@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T04:34:11.985Z",
+  "updatedAt": "2026-09-20T04:50:46.323Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -52,7 +52,7 @@
     {
       "title": "Share Your BASIS Numbers Pick ONE Topic",
       "source": "Gibwork",
-      "rewardText": "147 USDC pool",
+      "rewardText": "46 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-03.",
       "url": "https://app.gib.work/tasks/b3a45773-f2f9-4b12-844e-b8a635e4bc6f"
@@ -64,6 +64,14 @@
       "action": "Submission",
       "note": "Design; deadline 2026-09-20.",
       "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c"
+    },
+    {
+      "title": "Drop Your Take on BASIS Leave a Thoughtful Comment",
+      "source": "Gibwork",
+      "rewardText": "100 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-04.",
+      "url": "https://app.gib.work/tasks/8f73ad0b-8cfb-43ba-a574-a9499303acd5"
     },
     {
       "title": "Create, launch, or market-make on tsunammi",
@@ -80,14 +88,6 @@
       "action": "Issue or PR",
       "note": "Development; deadline 2026-09-21.",
       "url": "https://app.gib.work/tasks/ce839876-bf1f-42b7-914b-dd59f8fea1fb"
-    },
-    {
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
-      "source": "Gibwork",
-      "rewardText": "30 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-02.",
-      "url": "https://app.gib.work/tasks/25ffe152-f790-4d2a-9640-792a0773669f"
     },
     {
       "title": "Draft the Next @gib_work Post",
@@ -146,20 +146,20 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
     },
     {
-      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
-      "source": "GitHub",
-      "rewardText": "$15,000 candidate",
-      "action": "PR or issue",
-      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with a CLI bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/333"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
     }
   ]
 }
