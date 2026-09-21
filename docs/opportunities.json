@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T04:50:46.323Z",
+  "updatedAt": "2026-09-21T04:51:45.228Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -62,7 +62,7 @@
       "source": "Gibwork",
       "rewardText": "120 USDC pool",
       "action": "Submission",
-      "note": "Design; deadline 2026-09-20.",
+      "note": "Design; deadline 2026-09-30.",
       "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c"
     },
     {
@@ -146,20 +146,20 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
     },
     {
+      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
+      "source": "GitHub",
+      "rewardText": "$15,000 candidate",
+      "action": "PR or issue",
+      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with a CLI bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/333"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
     }
   ]
 }
