@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T04:51:45.228Z",
+  "updatedAt": "2026-09-22T04:51:15.743Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -50,14 +50,6 @@
       "url": "https://app.gib.work/tasks/a5ec2956-3f86-4a13-9fef-a3623c563a2e"
     },
     {
-      "title": "Share Your BASIS Numbers Pick ONE Topic",
-      "source": "Gibwork",
-      "rewardText": "46 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-03.",
-      "url": "https://app.gib.work/tasks/b3a45773-f2f9-4b12-844e-b8a635e4bc6f"
-    },
-    {
       "title": "Introduce Yourself to the Community",
       "source": "Gibwork",
       "rewardText": "120 USDC pool",
@@ -68,7 +60,7 @@
     {
       "title": "Drop Your Take on BASIS Leave a Thoughtful Comment",
       "source": "Gibwork",
-      "rewardText": "100 USDC pool",
+      "rewardText": "1 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-04.",
       "url": "https://app.gib.work/tasks/8f73ad0b-8cfb-43ba-a574-a9499303acd5"
@@ -82,12 +74,12 @@
       "url": "https://app.gib.work/tasks/59099bb9-ebb4-430d-8f39-d4356e62a94a"
     },
     {
-      "title": "Axzra outreach Agent's Bounty ",
+      "title": "Which Web3 Community Group Chats Are You Active In?",
       "source": "Gibwork",
-      "rewardText": "50 USDC pool",
-      "action": "Issue or PR",
-      "note": "Development; deadline 2026-09-21.",
-      "url": "https://app.gib.work/tasks/ce839876-bf1f-42b7-914b-dd59f8fea1fb"
+      "rewardText": "73 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-09-24.",
+      "url": "https://app.gib.work/tasks/dea2be55-de45-45a3-89d6-ecdf83e01d83"
     },
     {
       "title": "Draft the Next @gib_work Post",
@@ -96,6 +88,14 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-09-23.",
       "url": "https://app.gib.work/tasks/612d9f96-a0fd-4da5-9898-ee10045150de"
+    },
+    {
+      "title": "FLAUNT YOUR VERYCHAT STREAKS",
+      "source": "Gibwork",
+      "rewardText": "4 USDC pool",
+      "action": "Issue or PR",
+      "note": "Development; deadline 2026-10-04.",
+      "url": "https://app.gib.work/tasks/bc9c5425-af90-419a-a0da-918232c15bc2"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
