@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T04:51:15.743Z",
+  "updatedAt": "2026-09-23T04:41:57.692Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,12 +42,12 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "Share Your BASIS Week Pick ONE Theme",
+      "title": "Share Your Red Week Story Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "2 USDC pool",
+      "rewardText": "150 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-09-27.",
-      "url": "https://app.gib.work/tasks/a5ec2956-3f86-4a13-9fef-a3623c563a2e"
+      "note": "Social Media; deadline 2026-10-07.",
+      "url": "https://app.gib.work/tasks/6e49b27e-f9c4-4a6d-a61f-f4c8fc342c67"
     },
     {
       "title": "Introduce Yourself to the Community",
@@ -58,22 +58,6 @@
       "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c"
     },
     {
-      "title": "Drop Your Take on BASIS Leave a Thoughtful Comment",
-      "source": "Gibwork",
-      "rewardText": "1 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-04.",
-      "url": "https://app.gib.work/tasks/8f73ad0b-8cfb-43ba-a574-a9499303acd5"
-    },
-    {
-      "title": "Create, launch, or market-make on tsunammi",
-      "source": "Gibwork",
-      "rewardText": "100 USDC pool",
-      "action": "Submission",
-      "note": "Feedback; deadline 2026-09-22.",
-      "url": "https://app.gib.work/tasks/59099bb9-ebb4-430d-8f39-d4356e62a94a"
-    },
-    {
       "title": "Which Web3 Community Group Chats Are You Active In?",
       "source": "Gibwork",
       "rewardText": "73 USDC pool",
@@ -82,12 +66,12 @@
       "url": "https://app.gib.work/tasks/dea2be55-de45-45a3-89d6-ecdf83e01d83"
     },
     {
-      "title": "Draft the Next @gib_work Post",
+      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
       "source": "Gibwork",
-      "rewardText": "25 USDC pool",
+      "rewardText": "30 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-09-23.",
-      "url": "https://app.gib.work/tasks/612d9f96-a0fd-4da5-9898-ee10045150de"
+      "note": "Social Media; deadline 2026-10-06.",
+      "url": "https://app.gib.work/tasks/c35bd56f-9c59-4155-863a-cacfcb36a4b2"
     },
     {
       "title": "FLAUNT YOUR VERYCHAT STREAKS",
@@ -104,6 +88,14 @@
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
+    },
+    {
+      "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1340"
     },
     {
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
@@ -144,14 +136,6 @@
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
-    },
-    {
-      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
-      "source": "GitHub",
-      "rewardText": "$15,000 candidate",
-      "action": "PR or issue",
-      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     },
     {
       "title": "[META] Earn 1 USDC margin with a CLI bounty",
