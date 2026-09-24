@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T04:41:57.692Z",
+  "updatedAt": "2026-09-24T04:45:31.343Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -74,12 +74,12 @@
       "url": "https://app.gib.work/tasks/c35bd56f-9c59-4155-863a-cacfcb36a4b2"
     },
     {
-      "title": "FLAUNT YOUR VERYCHAT STREAKS",
+      "title": "JOIN RAYCASH APP POINTS SYSTEM",
       "source": "Gibwork",
-      "rewardText": "4 USDC pool",
-      "action": "Issue or PR",
-      "note": "Development; deadline 2026-10-04.",
-      "url": "https://app.gib.work/tasks/bc9c5425-af90-419a-a0da-918232c15bc2"
+      "rewardText": "5 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-10-07.",
+      "url": "https://app.gib.work/tasks/9f881000-866b-4366-a057-292645172adf"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
@@ -90,12 +90,20 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
+      "title": "[Bounty] Fix one deterministic agent-card discovery regression",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1340"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1502"
+    },
+    {
+      "title": "[Bounty] Fix one deterministic RPC failover regression",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1500"
     },
     {
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
@@ -130,20 +138,12 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
     },
     {
-      "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
-      "source": "GitHub",
-      "rewardText": "$25 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a CLI bounty",
+      "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1505"
     }
   ]
 }
