@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T04:53:45.638Z",
+  "updatedAt": "2026-09-26T04:54:02.378Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -44,7 +44,7 @@
     {
       "title": "Share One Small Detail About How You Use BASIS Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "24 USDC pool",
+      "rewardText": "2 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-09.",
       "url": "https://app.gib.work/tasks/7c17d0a2-3561-4d19-91bc-1f53c8bb7e86"
@@ -88,6 +88,14 @@
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
+    },
+    {
+      "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1505"
     },
     {
       "title": "[Bounty] Fix one deterministic agent-card discovery regression",
@@ -136,14 +144,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
-    },
-    {
-      "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1505"
     }
   ]
 }
