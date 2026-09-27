@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T04:54:02.378Z",
+  "updatedAt": "2026-09-27T05:15:14.967Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -90,14 +90,6 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1505"
-    },
-    {
       "title": "[Bounty] Fix one deterministic agent-card discovery regression",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -144,6 +136,14 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
+    },
+    {
+      "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1505"
     }
   ]
 }
