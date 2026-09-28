@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T05:15:14.967Z",
+  "updatedAt": "2026-09-28T05:19:26.901Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,12 +42,12 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "Share One Small Detail About How You Use BASIS Pick ONE angle",
+      "title": " How Did You Find BASIS? Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "2 USDC pool",
+      "rewardText": "13 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-09.",
-      "url": "https://app.gib.work/tasks/7c17d0a2-3561-4d19-91bc-1f53c8bb7e86"
+      "note": "Social Media; deadline 2026-10-12.",
+      "url": "https://app.gib.work/tasks/8ba40a8a-8c38-4e4e-aedb-c228df8d2782"
     },
     {
       "title": "Introduce Yourself to the Community",
@@ -76,7 +76,7 @@
     {
       "title": "JOIN RAYCASH APP POINTS SYSTEM",
       "source": "Gibwork",
-      "rewardText": "5 USDC pool",
+      "rewardText": "4 USDC pool",
       "action": "Submission",
       "note": "Design; deadline 2026-10-07.",
       "url": "https://app.gib.work/tasks/9f881000-866b-4366-a057-292645172adf"
@@ -88,22 +88,6 @@
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
-    },
-    {
-      "title": "[Bounty] Fix one deterministic agent-card discovery regression",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1502"
-    },
-    {
-      "title": "[Bounty] Fix one deterministic RPC failover regression",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1500"
     },
     {
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
@@ -130,6 +114,14 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     },
     {
+      "title": "[Bounty] Fix one deterministic agent-card discovery regression",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1502"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -144,6 +136,14 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1505"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a CLI bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
     }
   ]
 }
