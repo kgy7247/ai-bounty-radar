@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T05:19:26.901Z",
+  "updatedAt": "2026-09-29T05:40:29.925Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -26,6 +26,14 @@
       "url": "https://app.gib.work/tasks/1052f22d-3f87-4b1d-b0d7-71a60679e7fa"
     },
     {
+      "title": "Create an X Thread About the Gibwork Mobile App Bounty",
+      "source": "Gibwork",
+      "rewardText": "400 CREDITS pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-27.",
+      "url": "https://app.gib.work/tasks/d321ae8f-34f0-4c2f-b6ef-af7773d096ba"
+    },
+    {
       "title": "Refer. Share. Win upto $300 USDC",
       "source": "Gibwork",
       "rewardText": "300 CREDITS pool",
@@ -44,7 +52,7 @@
     {
       "title": " How Did You Find BASIS? Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "13 USDC pool",
+      "rewardText": "3 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-12.",
       "url": "https://app.gib.work/tasks/8ba40a8a-8c38-4e4e-aedb-c228df8d2782"
@@ -68,7 +76,7 @@
     {
       "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
       "source": "Gibwork",
-      "rewardText": "30 USDC pool",
+      "rewardText": "6 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-06.",
       "url": "https://app.gib.work/tasks/c35bd56f-9c59-4155-863a-cacfcb36a4b2"
@@ -130,20 +138,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
     },
     {
-      "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1505"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with a CLI bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/333"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
     }
   ]
 }
