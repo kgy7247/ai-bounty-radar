@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T05:40:29.925Z",
+  "updatedAt": "2026-09-30T05:28:44.639Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -50,20 +50,12 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": " How Did You Find BASIS? Pick ONE angle",
+      "title": "How Long Have You Been Staking on BASIS? Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "3 USDC pool",
+      "rewardText": "19 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-12.",
-      "url": "https://app.gib.work/tasks/8ba40a8a-8c38-4e4e-aedb-c228df8d2782"
-    },
-    {
-      "title": "Introduce Yourself to the Community",
-      "source": "Gibwork",
-      "rewardText": "120 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-09-30.",
-      "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c"
+      "note": "Social Media; deadline 2026-10-13.",
+      "url": "https://app.gib.work/tasks/91dd2813-b2a0-4a05-88b8-818ceba19a21"
     },
     {
       "title": "Invite Users, Earn Points, and Climb the Leaderboard",
@@ -74,12 +66,12 @@
       "url": "https://app.gib.work/tasks/d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7"
     },
     {
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
+      "title": "Engage with the BASIS ETF Flows Report — Retweet, Like & Comment",
       "source": "Gibwork",
-      "rewardText": "6 USDC pool",
+      "rewardText": "4 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-06.",
-      "url": "https://app.gib.work/tasks/c35bd56f-9c59-4155-863a-cacfcb36a4b2"
+      "note": "Social Media; deadline 2026-10-13.",
+      "url": "https://app.gib.work/tasks/d13c8c10-ad64-407c-a504-e3760abb0ff0"
     },
     {
       "title": "JOIN RAYCASH APP POINTS SYSTEM",
@@ -98,6 +90,14 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
+      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/648"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -112,22 +112,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/647"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/648"
-    },
-    {
-      "title": "[Bounty] Fix one deterministic agent-card discovery regression",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1502"
     },
     {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
@@ -152,6 +136,14 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/336"
+    },
+    {
+      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/861"
     }
   ]
 }
