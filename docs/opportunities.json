@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T05:32:51.146Z",
+  "updatedAt": "2026-10-03T05:14:28.926Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -52,7 +52,7 @@
     {
       "title": "Share Your BASIS Story Pick ONE Theme",
       "source": "Gibwork",
-      "rewardText": "20 USDC pool",
+      "rewardText": "10 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-16.",
       "url": "https://app.gib.work/tasks/f3228097-5bb3-4cd9-9170-f02c3c2f44fd"
@@ -98,12 +98,68 @@
       "url": "https://app.gib.work/tasks/7bfb8aeb-560c-41ae-9dc8-70f65326b59f"
     },
     {
-      "title": "githubBounties scan failed",
-      "source": "Scanner",
-      "rewardText": "",
-      "action": "Retry",
-      "note": "https://api.github.com/search/issues?q=label%3Abounty%20%22USDC%22%20is%3Aissue%20is%3Aopen&per_page=8 returned 403",
-      "url": "https://github.com/kgy7247/ai-bounty-radar"
+      "title": "[Bounty: 23 USDC] Create contributors webpage",
+      "source": "GitHub",
+      "rewardText": "$23 candidate",
+      "action": "PR or issue",
+      "note": "dwebagents/AgentPipe",
+      "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
+    },
+    {
+      "title": "[Bounty] Fix one deterministic agent-card discovery regression",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1531"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/651"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/648"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/590"
+    },
+    {
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/334"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a CLI bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
     }
   ]
 }
