@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T05:14:28.926Z",
+  "updatedAt": "2026-10-04T05:48:17.757Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -50,12 +50,12 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "Share Your BASIS Story Pick ONE Theme",
+      "title": "Where Are You Staking From? Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "10 USDC pool",
+      "rewardText": "11 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-16.",
-      "url": "https://app.gib.work/tasks/f3228097-5bb3-4cd9-9170-f02c3c2f44fd"
+      "note": "Social Media; deadline 2026-10-17.",
+      "url": "https://app.gib.work/tasks/3534fb77-41e8-410c-94d3-2ab210d5799c"
     },
     {
       "title": "How Long Have You Been Staking on BASIS? Pick ONE angle",
@@ -106,12 +106,12 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[Bounty] Fix one deterministic agent-card discovery regression",
+      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1531"
+      "url": "https://github.com/NSPG13/agent-bounties/issues/590"
     },
     {
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
@@ -138,20 +138,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     },
     {
-      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/590"
-    },
-    {
       "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/334"
+    },
+    {
+      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
+      "source": "GitHub",
+      "rewardText": "$15,000 candidate",
+      "action": "PR or issue",
+      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     },
     {
       "title": "[META] Earn 1 USDC margin with a CLI bounty",
