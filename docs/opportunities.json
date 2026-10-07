@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T06:16:17.097Z",
+  "updatedAt": "2026-10-07T05:54:57.043Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -50,12 +50,12 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "How Often Do You Add to Your BASIS Stake? Pick ONE angle",
+      "title": "What Surprised You About BASIS? Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "6 USDC pool",
+      "rewardText": "11 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-19.",
-      "url": "https://app.gib.work/tasks/ea35598a-0cee-4c9f-b55a-6302ab1c63ad"
+      "note": "Social Media; deadline 2026-10-21.",
+      "url": "https://app.gib.work/tasks/31701d1a-8c3f-4955-a882-6b40f0b85198"
     },
     {
       "title": "Invite Users, Earn Points, and Climb the Leaderboard",
@@ -88,6 +88,22 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-19.",
       "url": "https://app.gib.work/tasks/3642da5f-4ba7-4a7e-9b6a-161ebbd2a102"
+    },
+    {
+      "title": "OGs VS NEWBIES",
+      "source": "Gibwork",
+      "rewardText": "5 USDC pool",
+      "action": "Issue or PR",
+      "note": "Development; deadline 2026-10-20.",
+      "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e"
+    },
+    {
+      "title": "💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
+      "source": "GitHub",
+      "rewardText": "$10 candidate",
+      "action": "PR or issue",
+      "note": "quantumchain-core/velodag-core",
+      "url": "https://github.com/quantumchain-core/velodag-core/issues/2"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
@@ -144,14 +160,6 @@
       "action": "PR or issue",
       "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
       "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a CLI bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/333"
     }
   ]
 }
