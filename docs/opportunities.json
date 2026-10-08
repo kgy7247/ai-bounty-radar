@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T05:54:57.043Z",
+  "updatedAt": "2026-10-08T05:58:50.321Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -106,6 +106,14 @@
       "url": "https://github.com/quantumchain-core/velodag-core/issues/2"
     },
     {
+      "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
+      "source": "GitHub",
+      "rewardText": "$10 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828"
+    },
+    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
@@ -152,14 +160,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/334"
-    },
-    {
-      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
-      "source": "GitHub",
-      "rewardText": "$15,000 candidate",
-      "action": "PR or issue",
-      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     }
   ]
 }
