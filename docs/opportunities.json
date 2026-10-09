@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T05:58:50.321Z",
+  "updatedAt": "2026-10-09T06:04:23.890Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -50,20 +50,20 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "What Surprised You About BASIS? Pick ONE angle",
-      "source": "Gibwork",
-      "rewardText": "11 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-21.",
-      "url": "https://app.gib.work/tasks/31701d1a-8c3f-4955-a882-6b40f0b85198"
-    },
-    {
       "title": "Invite Users, Earn Points, and Climb the Leaderboard",
       "source": "Gibwork",
       "rewardText": "125 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-14.",
       "url": "https://app.gib.work/tasks/d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7"
+    },
+    {
+      "title": "What Would You Tell a Friend About BASIS? — Pick ONE angle",
+      "source": "Gibwork",
+      "rewardText": "10 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-22.",
+      "url": "https://app.gib.work/tasks/54320f98-f11e-48f5-967f-52849074578a"
     },
     {
       "title": "Create an X thread and IronVaults vault",
@@ -96,14 +96,6 @@
       "action": "Issue or PR",
       "note": "Development; deadline 2026-10-20.",
       "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e"
-    },
-    {
-      "title": "💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
-      "source": "GitHub",
-      "rewardText": "$10 candidate",
-      "action": "PR or issue",
-      "note": "quantumchain-core/velodag-core",
-      "url": "https://github.com/quantumchain-core/velodag-core/issues/2"
     },
     {
       "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
@@ -152,6 +144,14 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
+    },
+    {
+      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
+      "source": "GitHub",
+      "rewardText": "$15,000 candidate",
+      "action": "PR or issue",
+      "note": "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1"
     },
     {
       "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
