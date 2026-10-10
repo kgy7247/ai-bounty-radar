@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T06:04:23.890Z",
+  "updatedAt": "2026-10-10T05:48:14.291Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -130,20 +130,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/651"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
-    },
-    {
       "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
+    },
+    {
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     },
     {
       "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
