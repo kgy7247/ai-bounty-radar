@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T05:51:59.172Z",
+  "updatedAt": "2026-10-13T06:44:42.749Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -52,18 +52,10 @@
     {
       "title": "What Would You Tell a Friend About BASIS? Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "65 USDC pool",
+      "rewardText": "5 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-26.",
       "url": "https://app.gib.work/tasks/719f5bac-1fdb-4cec-b1ea-53cef65c76f4"
-    },
-    {
-      "title": "Create an X thread and IronVaults vault",
-      "source": "Gibwork",
-      "rewardText": "100 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-14.",
-      "url": "https://app.gib.work/tasks/25ab1f78-6afd-4e59-aa89-10e9c19fe304"
     },
     {
       "title": "Invite a UGC Creator to Gibwork and Get a Reply — Round 2",
@@ -88,6 +80,14 @@
       "action": "Issue or PR",
       "note": "Development; deadline 2026-10-20.",
       "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e"
+    },
+    {
+      "title": "[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
     },
     {
       "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
@@ -128,14 +128,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/647"
-    },
-    {
-      "title": "[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
     },
     {
       "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
