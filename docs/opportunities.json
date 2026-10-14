@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T06:44:42.749Z",
+  "updatedAt": "2026-10-14T04:48:39.991Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -50,12 +50,12 @@
       "url": "https://app.gib.work/tasks/d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7"
     },
     {
-      "title": "What Would You Tell a Friend About BASIS? Pick ONE angle",
+      "title": "Share Your Best BASIS Moment Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "5 USDC pool",
+      "rewardText": "1 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-26.",
-      "url": "https://app.gib.work/tasks/719f5bac-1fdb-4cec-b1ea-53cef65c76f4"
+      "note": "Social Media; deadline 2026-10-27.",
+      "url": "https://app.gib.work/tasks/23cd310e-d52e-4d69-a827-b1d1616848a6"
     },
     {
       "title": "Invite a UGC Creator to Gibwork and Get a Reply — Round 2",
@@ -90,20 +90,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
     },
     {
-      "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
-      "source": "GitHub",
-      "rewardText": "$10 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828"
-    },
-    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
+    },
+    {
+      "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
+      "source": "GitHub",
+      "rewardText": "$10 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828"
     },
     {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
