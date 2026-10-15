@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T04:48:39.991Z",
+  "updatedAt": "2026-10-15T04:33:19.484Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,28 +42,28 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "Invite Users, Earn Points, and Climb the Leaderboard",
+      "title": "BASIS DRR Update Retweet + Comment",
       "source": "Gibwork",
-      "rewardText": "125 USDC pool",
+      "rewardText": "5 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-14.",
-      "url": "https://app.gib.work/tasks/d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7"
+      "note": "Social Media; deadline 2026-10-17.",
+      "url": "https://app.gib.work/tasks/9b7c9561-97bc-4ff3-b65d-341bdfab4c50"
     },
     {
-      "title": "Share Your Best BASIS Moment Pick ONE angle",
+      "title": "What's One Thing You Do on BASIS Every Week? Pick ONE angle",
       "source": "Gibwork",
-      "rewardText": "1 USDC pool",
+      "rewardText": "5 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-27.",
-      "url": "https://app.gib.work/tasks/23cd310e-d52e-4d69-a827-b1d1616848a6"
+      "note": "Social Media; deadline 2026-10-28.",
+      "url": "https://app.gib.work/tasks/f2dc2d56-f90c-4fda-8655-dea1f0a77290"
     },
     {
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — Round 2",
+      "title": "BASIS on Hong Kong Solana ETFs Retweet + Comment",
       "source": "Gibwork",
-      "rewardText": "30 USDC pool",
+      "rewardText": "8 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-15.",
-      "url": "https://app.gib.work/tasks/7bfb8aeb-560c-41ae-9dc8-70f65326b59f"
+      "note": "Social Media; deadline 2026-10-19.",
+      "url": "https://app.gib.work/tasks/c8434d65-bcbf-4896-81b0-1ad5dd3f8def"
     },
     {
       "title": "Follow, Quote Post & Join the $RKS Telegram",
@@ -138,12 +138,12 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/334"
     },
     {
-      "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
+      "title": "Add validation for token decimal precision mismatch in record_payment",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/336"
+      "note": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1347"
     }
   ]
 }
