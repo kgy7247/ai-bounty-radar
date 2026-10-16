@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:33:19.484Z",
+  "updatedAt": "2026-10-16T04:27:05.282Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,14 +42,6 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "BASIS DRR Update Retweet + Comment",
-      "source": "Gibwork",
-      "rewardText": "5 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-17.",
-      "url": "https://app.gib.work/tasks/9b7c9561-97bc-4ff3-b65d-341bdfab4c50"
-    },
-    {
       "title": "What's One Thing You Do on BASIS Every Week? Pick ONE angle",
       "source": "Gibwork",
       "rewardText": "5 USDC pool",
@@ -66,6 +58,14 @@
       "url": "https://app.gib.work/tasks/c8434d65-bcbf-4896-81b0-1ad5dd3f8def"
     },
     {
+      "title": "BASIS on IBKR Staking Retweet + Comment",
+      "source": "Gibwork",
+      "rewardText": "9 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-19.",
+      "url": "https://app.gib.work/tasks/d0e3ae96-5d54-4c00-9975-958adab1cc21"
+    },
+    {
       "title": "Follow, Quote Post & Join the $RKS Telegram",
       "source": "Gibwork",
       "rewardText": "10 USDC pool",
@@ -80,6 +80,14 @@
       "action": "Issue or PR",
       "note": "Development; deadline 2026-10-20.",
       "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e"
+    },
+    {
+      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
+      "source": "GitHub",
+      "rewardText": "$90 candidate",
+      "action": "PR or issue",
+      "note": "Parabola-org/parabola",
+      "url": "https://github.com/Parabola-org/parabola/issues/10"
     },
     {
       "title": "[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty",
@@ -106,6 +114,14 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828"
     },
     {
+      "title": "[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
+      "source": "GitHub",
+      "rewardText": "$90 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
@@ -128,22 +144,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/647"
-    },
-    {
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/334"
-    },
-    {
-      "title": "Add validation for token decimal precision mismatch in record_payment",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "OphirPay/OphirPay",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1347"
     }
   ]
 }
