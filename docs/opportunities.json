@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T04:27:05.282Z",
+  "updatedAt": "2026-10-17T04:20:58.664Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,28 +42,12 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "What's One Thing You Do on BASIS Every Week? Pick ONE angle",
+      "title": "Share Your BASIS Story 50 Topics, Pick ONE",
       "source": "Gibwork",
-      "rewardText": "5 USDC pool",
+      "rewardText": "51 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-28.",
-      "url": "https://app.gib.work/tasks/f2dc2d56-f90c-4fda-8655-dea1f0a77290"
-    },
-    {
-      "title": "BASIS on Hong Kong Solana ETFs Retweet + Comment",
-      "source": "Gibwork",
-      "rewardText": "8 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-19.",
-      "url": "https://app.gib.work/tasks/c8434d65-bcbf-4896-81b0-1ad5dd3f8def"
-    },
-    {
-      "title": "BASIS on IBKR Staking Retweet + Comment",
-      "source": "Gibwork",
-      "rewardText": "9 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-19.",
-      "url": "https://app.gib.work/tasks/d0e3ae96-5d54-4c00-9975-958adab1cc21"
+      "note": "Social Media; deadline 2026-10-21.",
+      "url": "https://app.gib.work/tasks/fee5da23-be65-4b10-b635-ad74a0761688"
     },
     {
       "title": "Follow, Quote Post & Join the $RKS Telegram",
@@ -80,14 +64,6 @@
       "action": "Issue or PR",
       "note": "Development; deadline 2026-10-20.",
       "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e"
-    },
-    {
-      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "Parabola-org/parabola",
-      "url": "https://github.com/Parabola-org/parabola/issues/10"
     },
     {
       "title": "[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty",
@@ -112,6 +88,14 @@
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828"
+    },
+    {
+      "title": "[Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
+      "source": "GitHub",
+      "rewardText": "$90 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908"
     },
     {
       "title": "[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
