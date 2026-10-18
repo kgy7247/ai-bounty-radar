@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:20:58.664Z",
+  "updatedAt": "2026-10-18T04:26:54.121Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -44,7 +44,7 @@
     {
       "title": "Share Your BASIS Story 50 Topics, Pick ONE",
       "source": "Gibwork",
-      "rewardText": "51 USDC pool",
+      "rewardText": "26 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-21.",
       "url": "https://app.gib.work/tasks/fee5da23-be65-4b10-b635-ad74a0761688"
@@ -66,14 +66,6 @@
       "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e"
     },
     {
-      "title": "[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
-    },
-    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
@@ -88,6 +80,14 @@
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828"
+    },
+    {
+      "title": "Create the first funded bounty for an established open-source project",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
     },
     {
       "title": "[Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
