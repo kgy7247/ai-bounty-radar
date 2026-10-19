@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T04:26:54.121Z",
+  "updatedAt": "2026-10-19T04:35:41.499Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -44,18 +44,10 @@
     {
       "title": "Share Your BASIS Story 50 Topics, Pick ONE",
       "source": "Gibwork",
-      "rewardText": "26 USDC pool",
+      "rewardText": "12 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-21.",
       "url": "https://app.gib.work/tasks/fee5da23-be65-4b10-b635-ad74a0761688"
-    },
-    {
-      "title": "Follow, Quote Post & Join the $RKS Telegram",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-19.",
-      "url": "https://app.gib.work/tasks/3642da5f-4ba7-4a7e-9b6a-161ebbd2a102"
     },
     {
       "title": "OGs VS NEWBIES",
@@ -114,20 +106,20 @@
       "url": "https://github.com/NSPG13/agent-bounties/issues/590"
     },
     {
+      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/651"
+    },
+    {
       "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
       "source": "GitHub",
       "rewardText": "Check issue",
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/648"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647"
     }
   ]
 }
