@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:35:41.499Z",
+  "updatedAt": "2026-10-20T04:44:59.350Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -44,10 +44,18 @@
     {
       "title": "Share Your BASIS Story 50 Topics, Pick ONE",
       "source": "Gibwork",
-      "rewardText": "12 USDC pool",
+      "rewardText": "1 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-21.",
       "url": "https://app.gib.work/tasks/fee5da23-be65-4b10-b635-ad74a0761688"
+    },
+    {
+      "title": "Share One Little Thing About Using BASIS Pick ONE angle",
+      "source": "Gibwork",
+      "rewardText": "60 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-24.",
+      "url": "https://app.gib.work/tasks/48b29af8-6516-43cd-8407-0247497c0f9a"
     },
     {
       "title": "OGs VS NEWBIES",
@@ -56,6 +64,14 @@
       "action": "Issue or PR",
       "note": "Development; deadline 2026-10-20.",
       "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e"
+    },
+    {
+      "title": "[BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewall",
+      "source": "GitHub",
+      "rewardText": "$5.00 candidate",
+      "action": "PR or issue",
+      "note": "ak10082247-max/canaryguard-402",
+      "url": "https://github.com/ak10082247-max/canaryguard-402/issues/2"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
@@ -112,14 +128,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/651"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/648"
     }
   ]
 }
