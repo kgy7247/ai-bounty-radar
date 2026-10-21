@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T04:44:59.350Z",
+  "updatedAt": "2026-10-21T04:41:11.706Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,14 +42,6 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "Share Your BASIS Story 50 Topics, Pick ONE",
-      "source": "Gibwork",
-      "rewardText": "1 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-21.",
-      "url": "https://app.gib.work/tasks/fee5da23-be65-4b10-b635-ad74a0761688"
-    },
-    {
       "title": "Share One Little Thing About Using BASIS Pick ONE angle",
       "source": "Gibwork",
       "rewardText": "60 USDC pool",
@@ -58,12 +50,12 @@
       "url": "https://app.gib.work/tasks/48b29af8-6516-43cd-8407-0247497c0f9a"
     },
     {
-      "title": "OGs VS NEWBIES",
+      "title": "Play Turnfolk - Earn $5 for honest feedback",
       "source": "Gibwork",
-      "rewardText": "5 USDC pool",
-      "action": "Issue or PR",
-      "note": "Development; deadline 2026-10-20.",
-      "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e"
+      "rewardText": "100 USDC pool",
+      "action": "Submission",
+      "note": "Feedback; deadline 2026-10-30.",
+      "url": "https://app.gib.work/tasks/2e57bb40-daca-4c81-9056-e78902dd07f6"
     },
     {
       "title": "[BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewall",
