@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T04:39:00.749Z",
+  "updatedAt": "2026-10-23T04:44:30.053Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,12 +42,12 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": " Share Your Side of BASIS Pick ONE Theme",
+      "title": "BASIS Raises DRR Across All Four Assets — Share Your Take",
       "source": "Gibwork",
-      "rewardText": "11 USDC pool",
+      "rewardText": "2 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-24.",
-      "url": "https://app.gib.work/tasks/e2575247-1d22-4157-9885-6e52ac5dab36"
+      "note": "Social Media; deadline 2026-10-26.",
+      "url": "https://app.gib.work/tasks/444f2a44-7ef5-405a-8de2-8ce20edfedd0"
     },
     {
       "title": "Play Turnfolk - Earn $5 for honest feedback",
@@ -82,6 +82,14 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828"
     },
     {
+      "title": "[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
+      "source": "GitHub",
+      "rewardText": "$90 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906"
+    },
+    {
       "title": "[Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
       "source": "GitHub",
       "rewardText": "$90 candidate",
@@ -96,14 +104,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
-    },
-    {
-      "title": "[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906"
     },
     {
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
