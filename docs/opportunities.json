@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:44:30.053Z",
+  "updatedAt": "2026-10-24T04:31:42.073Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,12 +42,20 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
-      "title": "BASIS Raises DRR Across All Four Assets — Share Your Take",
+      "title": "X Thread Bounty from Today’s X Space",
       "source": "Gibwork",
-      "rewardText": "2 USDC pool",
+      "rewardText": "150 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-10-26.",
-      "url": "https://app.gib.work/tasks/444f2a44-7ef5-405a-8de2-8ce20edfedd0"
+      "note": "Social Media; deadline 2026-11-06.",
+      "url": "https://app.gib.work/tasks/dbef254b-17f2-47d3-be60-267f0a8fe93a"
+    },
+    {
+      "title": "Which BASIS Features Do You Actually Use? Pick ONE angle",
+      "source": "Gibwork",
+      "rewardText": "10 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-06.",
+      "url": "https://app.gib.work/tasks/33e0497c-2ec9-4511-aebd-d52ee07e82bd"
     },
     {
       "title": "Play Turnfolk - Earn $5 for honest feedback",
@@ -56,6 +64,38 @@
       "action": "Submission",
       "note": "Feedback; deadline 2026-10-30.",
       "url": "https://app.gib.work/tasks/2e57bb40-daca-4c81-9056-e78902dd07f6"
+    },
+    {
+      "title": "Engage with @Femionchain on X for 3 days",
+      "source": "Gibwork",
+      "rewardText": "11.73 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-06.",
+      "url": "https://app.gib.work/tasks/14e29f94-84b1-4376-8175-0a6c0c75193d"
+    },
+    {
+      "title": "Grow X account - Femionchain",
+      "source": "Gibwork",
+      "rewardText": "2 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-06.",
+      "url": "https://app.gib.work/tasks/386e25c4-c585-444a-8697-7ba00ba8b2a7"
+    },
+    {
+      "title": "Follow my Kick account before I go live",
+      "source": "Gibwork",
+      "rewardText": "7.99 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-11-06.",
+      "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665"
+    },
+    {
+      "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "source": "GitHub",
+      "rewardText": "$100 candidate",
+      "action": "PR or issue",
+      "note": "blake-guthrie/GLASS",
+      "url": "https://github.com/blake-guthrie/GLASS/issues/1"
     },
     {
       "title": "[BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewall",
@@ -72,6 +112,14 @@
       "action": "PR or issue",
       "note": "dwebagents/AgentPipe",
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
+    },
+    {
+      "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "source": "GitHub",
+      "rewardText": "$100 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107"
     },
     {
       "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
@@ -104,22 +152,6 @@
       "action": "PR or issue",
       "note": "NSPG13/agent-bounties",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/590"
-    },
-    {
-      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/651"
     }
   ]
 }
