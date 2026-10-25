@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:31:42.073Z",
+  "updatedAt": "2026-10-25T04:36:23.791Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -68,7 +68,7 @@
     {
       "title": "Engage with @Femionchain on X for 3 days",
       "source": "Gibwork",
-      "rewardText": "11.73 USDC pool",
+      "rewardText": "10.73 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-06.",
       "url": "https://app.gib.work/tasks/14e29f94-84b1-4376-8175-0a6c0c75193d"
@@ -76,7 +76,7 @@
     {
       "title": "Grow X account - Femionchain",
       "source": "Gibwork",
-      "rewardText": "2 USDC pool",
+      "rewardText": "1 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-06.",
       "url": "https://app.gib.work/tasks/386e25c4-c585-444a-8697-7ba00ba8b2a7"
@@ -84,7 +84,7 @@
     {
       "title": "Follow my Kick account before I go live",
       "source": "Gibwork",
-      "rewardText": "7.99 USDC pool",
+      "rewardText": "0.99 USDC pool",
       "action": "Submission",
       "note": "Design; deadline 2026-11-06.",
       "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665"
@@ -114,6 +114,22 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
+      "title": "💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu",
+      "source": "GitHub",
+      "rewardText": "$100 candidate",
+      "action": "PR or issue",
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/27"
+    },
+    {
+      "title": "💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "source": "GitHub",
+      "rewardText": "$100 candidate",
+      "action": "PR or issue",
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/21"
+    },
+    {
       "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
       "source": "GitHub",
       "rewardText": "$100 candidate",
@@ -122,36 +138,20 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107"
     },
     {
-      "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
+      "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
       "source": "GitHub",
-      "rewardText": "$10 candidate",
+      "rewardText": "$100 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828"
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109"
     },
     {
-      "title": "[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
+      "title": "💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ",
       "source": "GitHub",
-      "rewardText": "$90 candidate",
+      "rewardText": "$100 candidate",
       "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906"
-    },
-    {
-      "title": "[Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
-      "source": "GitHub",
-      "rewardText": "$90 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908"
-    },
-    {
-      "title": "Create the first funded bounty for an established open-source project",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/28"
     }
   ]
 }
