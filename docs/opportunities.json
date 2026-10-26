@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T04:36:23.791Z",
+  "updatedAt": "2026-10-26T04:41:43.030Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -74,20 +74,28 @@
       "url": "https://app.gib.work/tasks/14e29f94-84b1-4376-8175-0a6c0c75193d"
     },
     {
+      "title": "Refer 5 genuine new Temu users with the provided referral link bounty",
+      "source": "Gibwork",
+      "rewardText": "10 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-11-09.",
+      "url": "https://app.gib.work/tasks/6d2704d1-f041-4708-8610-f752d7ddcba5"
+    },
+    {
+      "title": "Temu referral bounty for 5 genuine new-user signups",
+      "source": "Gibwork",
+      "rewardText": "10 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-11-09.",
+      "url": "https://app.gib.work/tasks/9b4285a7-d9ea-471b-8cc6-2984b3e14b52"
+    },
+    {
       "title": "Grow X account - Femionchain",
       "source": "Gibwork",
       "rewardText": "1 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-06.",
       "url": "https://app.gib.work/tasks/386e25c4-c585-444a-8697-7ba00ba8b2a7"
-    },
-    {
-      "title": "Follow my Kick account before I go live",
-      "source": "Gibwork",
-      "rewardText": "0.99 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-11-06.",
-      "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665"
     },
     {
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
@@ -114,20 +122,20 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu",
-      "source": "GitHub",
-      "rewardText": "$100 candidate",
-      "action": "PR or issue",
-      "note": "alfrexo95/bounty-bot",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/27"
-    },
-    {
       "title": "💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
       "source": "GitHub",
       "rewardText": "$100 candidate",
       "action": "PR or issue",
       "note": "alfrexo95/bounty-bot",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/21"
+    },
+    {
+      "title": "💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu",
+      "source": "GitHub",
+      "rewardText": "$100 candidate",
+      "action": "PR or issue",
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/27"
     },
     {
       "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
