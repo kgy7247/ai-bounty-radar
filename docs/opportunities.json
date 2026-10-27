@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T04:41:43.030Z",
+  "updatedAt": "2026-10-27T04:58:55.789Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,20 +42,20 @@
       "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
     },
     {
+      "title": "Share Your BASIS Experience Pick ONE of 50 Themes",
+      "source": "Gibwork",
+      "rewardText": "8 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-31.",
+      "url": "https://app.gib.work/tasks/cff0fb2f-bc05-4bdd-9322-971eefcf1c48"
+    },
+    {
       "title": "X Thread Bounty from Today’s X Space",
       "source": "Gibwork",
       "rewardText": "150 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-06.",
       "url": "https://app.gib.work/tasks/dbef254b-17f2-47d3-be60-267f0a8fe93a"
-    },
-    {
-      "title": "Which BASIS Features Do You Actually Use? Pick ONE angle",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-11-06.",
-      "url": "https://app.gib.work/tasks/33e0497c-2ec9-4511-aebd-d52ee07e82bd"
     },
     {
       "title": "Play Turnfolk - Earn $5 for honest feedback",
@@ -76,18 +76,10 @@
     {
       "title": "Refer 5 genuine new Temu users with the provided referral link bounty",
       "source": "Gibwork",
-      "rewardText": "10 USDC pool",
+      "rewardText": "9 USDC pool",
       "action": "Submission",
       "note": "Design; deadline 2026-11-09.",
       "url": "https://app.gib.work/tasks/6d2704d1-f041-4708-8610-f752d7ddcba5"
-    },
-    {
-      "title": "Temu referral bounty for 5 genuine new-user signups",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-11-09.",
-      "url": "https://app.gib.work/tasks/9b4285a7-d9ea-471b-8cc6-2984b3e14b52"
     },
     {
       "title": "Grow X account - Femionchain",
@@ -96,6 +88,14 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-06.",
       "url": "https://app.gib.work/tasks/386e25c4-c585-444a-8697-7ba00ba8b2a7"
+    },
+    {
+      "title": "Follow my Kick account before I go live",
+      "source": "Gibwork",
+      "rewardText": "0.99 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-11-06.",
+      "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665"
     },
     {
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
@@ -146,20 +146,20 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107"
     },
     {
-      "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
-      "source": "GitHub",
-      "rewardText": "$100 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109"
-    },
-    {
       "title": "💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ",
       "source": "GitHub",
       "rewardText": "$100 candidate",
       "action": "PR or issue",
       "note": "alfrexo95/bounty-bot",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/28"
+    },
+    {
+      "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "source": "GitHub",
+      "rewardText": "$100 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109"
     }
   ]
 }
