@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T04:58:55.789Z",
+  "updatedAt": "2026-10-28T05:36:17.266Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -44,7 +44,7 @@
     {
       "title": "Share Your BASIS Experience Pick ONE of 50 Themes",
       "source": "Gibwork",
-      "rewardText": "8 USDC pool",
+      "rewardText": "2 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-10-31.",
       "url": "https://app.gib.work/tasks/cff0fb2f-bc05-4bdd-9322-971eefcf1c48"
@@ -56,6 +56,14 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-06.",
       "url": "https://app.gib.work/tasks/dbef254b-17f2-47d3-be60-267f0a8fe93a"
+    },
+    {
+      "title": "Share Your BASIS, Your Way Pick ONE Theme",
+      "source": "Gibwork",
+      "rewardText": "10 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-10-31.",
+      "url": "https://app.gib.work/tasks/5dc0116c-b4b2-40b5-a113-f380c7002d18"
     },
     {
       "title": "Play Turnfolk - Earn $5 for honest feedback",
@@ -90,28 +98,12 @@
       "url": "https://app.gib.work/tasks/386e25c4-c585-444a-8697-7ba00ba8b2a7"
     },
     {
-      "title": "Follow my Kick account before I go live",
-      "source": "Gibwork",
-      "rewardText": "0.99 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-11-06.",
-      "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665"
-    },
-    {
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
       "source": "GitHub",
       "rewardText": "$100 candidate",
       "action": "PR or issue",
       "note": "blake-guthrie/GLASS",
       "url": "https://github.com/blake-guthrie/GLASS/issues/1"
-    },
-    {
-      "title": "[BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewall",
-      "source": "GitHub",
-      "rewardText": "$5.00 candidate",
-      "action": "PR or issue",
-      "note": "ak10082247-max/canaryguard-402",
-      "url": "https://github.com/ak10082247-max/canaryguard-402/issues/2"
     },
     {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
@@ -146,6 +138,14 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107"
     },
     {
+      "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "source": "GitHub",
+      "rewardText": "$100 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109"
+    },
+    {
       "title": "💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ",
       "source": "GitHub",
       "rewardText": "$100 candidate",
@@ -154,12 +154,12 @@
       "url": "https://github.com/alfrexo95/bounty-bot/issues/28"
     },
     {
-      "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "title": "Create the first funded bounty for an established open-source project",
       "source": "GitHub",
-      "rewardText": "$100 candidate",
+      "rewardText": "Check issue",
       "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109"
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
     }
   ]
 }
