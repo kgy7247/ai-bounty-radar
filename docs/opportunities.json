@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T05:42:50.032Z",
+  "updatedAt": "2026-10-30T05:42:09.671Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,30 +18,6 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
-      "title": "Gibwork Developer Hackathon Bounty",
-      "source": "Gibwork",
-      "rewardText": "1000 USDC pool",
-      "action": "Issue or PR",
-      "note": "Development; deadline 2026-10-30.",
-      "url": "https://app.gib.work/tasks/1052f22d-3f87-4b1d-b0d7-71a60679e7fa"
-    },
-    {
-      "title": "Create an X Thread About the Gibwork Mobile App Bounty",
-      "source": "Gibwork",
-      "rewardText": "400 CREDITS pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-11-27.",
-      "url": "https://app.gib.work/tasks/d321ae8f-34f0-4c2f-b6ef-af7773d096ba"
-    },
-    {
-      "title": "Create a UGC Video Bounty for the Gibwork Mobile App",
-      "source": "Gibwork",
-      "rewardText": "300 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-30.",
-      "url": "https://app.gib.work/tasks/5f073804-bb43-49c9-99c0-3fb498180465"
-    },
-    {
       "title": "X Thread Bounty from Today’s X Space",
       "source": "Gibwork",
       "rewardText": "150 USDC pool",
@@ -50,12 +26,12 @@
       "url": "https://app.gib.work/tasks/dbef254b-17f2-47d3-be60-267f0a8fe93a"
     },
     {
-      "title": "Tell Us Your BASIS Story Pick ONE Theme",
+      "title": "Share Your Everyday BASIS Pick ONE Theme",
       "source": "Gibwork",
       "rewardText": "10 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-11-03.",
-      "url": "https://app.gib.work/tasks/3093ebd6-a52a-4411-81fa-3055dcb81772"
+      "note": "Social Media; deadline 2026-11-12.",
+      "url": "https://app.gib.work/tasks/8f6748a5-ad70-4636-9e73-0bd6bdb8ba1e"
     },
     {
       "title": "Share Your BASIS, Your Way Pick ONE Theme",
@@ -96,6 +72,30 @@
       "action": "Submission",
       "note": "Design; deadline 2026-11-09.",
       "url": "https://app.gib.work/tasks/6d2704d1-f041-4708-8610-f752d7ddcba5"
+    },
+    {
+      "title": "Grow X account - Femionchain",
+      "source": "Gibwork",
+      "rewardText": "1 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-06.",
+      "url": "https://app.gib.work/tasks/386e25c4-c585-444a-8697-7ba00ba8b2a7"
+    },
+    {
+      "title": "Follow my Kick account before I go live",
+      "source": "Gibwork",
+      "rewardText": "0.99 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-11-06.",
+      "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665"
+    },
+    {
+      "title": "Post About a App Feature",
+      "source": "Gibwork",
+      "rewardText": "1 CREDITS pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-12.",
+      "url": "https://app.gib.work/tasks/766bb734-df89-48c0-a0dc-cec5d715dd8b"
     },
     {
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
