@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:42:09.671Z",
+  "updatedAt": "2026-10-31T05:34:57.727Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -26,28 +26,12 @@
       "url": "https://app.gib.work/tasks/dbef254b-17f2-47d3-be60-267f0a8fe93a"
     },
     {
-      "title": "Share Your Everyday BASIS Pick ONE Theme",
+      "title": "Share Your Everyday BASIS Pick ONE of 50 Themes",
       "source": "Gibwork",
-      "rewardText": "10 USDC pool",
+      "rewardText": "12 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-11-12.",
-      "url": "https://app.gib.work/tasks/8f6748a5-ad70-4636-9e73-0bd6bdb8ba1e"
-    },
-    {
-      "title": "Share Your BASIS, Your Way Pick ONE Theme",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-31.",
-      "url": "https://app.gib.work/tasks/5dc0116c-b4b2-40b5-a113-f380c7002d18"
-    },
-    {
-      "title": "Play Turnfolk - Earn $5 for honest feedback",
-      "source": "Gibwork",
-      "rewardText": "100 USDC pool",
-      "action": "Submission",
-      "note": "Feedback; deadline 2026-10-30.",
-      "url": "https://app.gib.work/tasks/2e57bb40-daca-4c81-9056-e78902dd07f6"
+      "note": "Social Media; deadline 2026-11-13.",
+      "url": "https://app.gib.work/tasks/77dd17b7-d9b3-4a21-b88c-a4de7b61d986"
     },
     {
       "title": "Engage with @Femionchain on X for 3 days",
@@ -114,20 +98,20 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
-      "source": "GitHub",
-      "rewardText": "$100 candidate",
-      "action": "PR or issue",
-      "note": "alfrexo95/bounty-bot",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/21"
-    },
-    {
       "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
       "source": "GitHub",
       "rewardText": "$100 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107"
+    },
+    {
+      "title": "💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "source": "GitHub",
+      "rewardText": "$100 candidate",
+      "action": "PR or issue",
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/21"
     },
     {
       "title": "💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu",
