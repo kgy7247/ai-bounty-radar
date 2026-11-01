@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T05:34:57.727Z",
+  "updatedAt": "2026-11-01T05:57:29.258Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,14 +42,6 @@
       "url": "https://app.gib.work/tasks/14e29f94-84b1-4376-8175-0a6c0c75193d"
     },
     {
-      "title": "Need help with KYC",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-10-31.",
-      "url": "https://app.gib.work/tasks/e9361d5d-6595-4ec9-8b89-12bddcb6089b"
-    },
-    {
       "title": "Refer 5 genuine new Temu users with the provided referral link bounty",
       "source": "Gibwork",
       "rewardText": "9 USDC pool",
@@ -72,14 +64,6 @@
       "action": "Submission",
       "note": "Design; deadline 2026-11-06.",
       "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665"
-    },
-    {
-      "title": "Post About a App Feature",
-      "source": "Gibwork",
-      "rewardText": "1 CREDITS pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-11-12.",
-      "url": "https://app.gib.work/tasks/766bb734-df89-48c0-a0dc-cec5d715dd8b"
     },
     {
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
