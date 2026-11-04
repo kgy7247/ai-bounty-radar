@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:42:54.583Z",
+  "updatedAt": "2026-11-04T06:12:07.812Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -26,12 +26,28 @@
       "url": "https://app.gib.work/tasks/dbef254b-17f2-47d3-be60-267f0a8fe93a"
     },
     {
+      "title": "Your BASIS, Your Plans Pick ONE of 50 Themes",
+      "source": "Gibwork",
+      "rewardText": "10 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-17.",
+      "url": "https://app.gib.work/tasks/a68b491c-6528-448f-91c7-4013ca249ffb"
+    },
+    {
       "title": "Share How BASIS Changed for You Pick ONE angle",
       "source": "Gibwork",
       "rewardText": "4 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-07.",
       "url": "https://app.gib.work/tasks/7321f4fd-c2c5-42d2-8194-39a206546378"
+    },
+    {
+      "title": "Election-Day BTC Options: RT + Add Your Read",
+      "source": "Gibwork",
+      "rewardText": "1 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-05.",
+      "url": "https://app.gib.work/tasks/7c4fa362-9adf-4d04-b83f-01fded43c2a7"
     },
     {
       "title": "Engage with @Femionchain on X for 3 days",
@@ -114,6 +130,14 @@
       "url": "https://github.com/alfrexo95/bounty-bot/issues/27"
     },
     {
+      "title": "Create the first funded bounty for an established open-source project",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
+    },
+    {
       "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
       "source": "GitHub",
       "rewardText": "$100 candidate",
@@ -128,14 +152,6 @@
       "action": "PR or issue",
       "note": "alfrexo95/bounty-bot",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/28"
-    },
-    {
-      "title": "Create the first funded bounty for an established open-source project",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
     }
   ]
 }
