@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T06:12:07.812Z",
+  "updatedAt": "2026-11-05T06:39:46.332Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -18,6 +18,22 @@
       "url": "https://github.com/ubounty-app/ubounty-demo/issues/9"
     },
     {
+      "title": "Mooshies Waitlist + Follow + Telegram + Share Your Wallet Card",
+      "source": "Gibwork",
+      "rewardText": "200 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-22.",
+      "url": "https://app.gib.work/tasks/1ca4e464-52f0-407d-8db5-d892b5a3c87b"
+    },
+    {
+      "title": "BASIS DRR Increase RT, Like & Comment",
+      "source": "Gibwork",
+      "rewardText": "8 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-18.",
+      "url": "https://app.gib.work/tasks/065377f1-2ada-415a-803b-e22c2e8dcfed"
+    },
+    {
       "title": "X Thread Bounty from Today’s X Space",
       "source": "Gibwork",
       "rewardText": "150 USDC pool",
@@ -26,36 +42,20 @@
       "url": "https://app.gib.work/tasks/dbef254b-17f2-47d3-be60-267f0a8fe93a"
     },
     {
-      "title": "Your BASIS, Your Plans Pick ONE of 50 Themes",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-11-17.",
-      "url": "https://app.gib.work/tasks/a68b491c-6528-448f-91c7-4013ca249ffb"
-    },
-    {
-      "title": "Share How BASIS Changed for You Pick ONE angle",
-      "source": "Gibwork",
-      "rewardText": "4 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-11-07.",
-      "url": "https://app.gib.work/tasks/7321f4fd-c2c5-42d2-8194-39a206546378"
-    },
-    {
-      "title": "Election-Day BTC Options: RT + Add Your Read",
-      "source": "Gibwork",
-      "rewardText": "1 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-11-05.",
-      "url": "https://app.gib.work/tasks/7c4fa362-9adf-4d04-b83f-01fded43c2a7"
-    },
-    {
       "title": "Engage with @Femionchain on X for 3 days",
       "source": "Gibwork",
       "rewardText": "10.73 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-06.",
       "url": "https://app.gib.work/tasks/14e29f94-84b1-4376-8175-0a6c0c75193d"
+    },
+    {
+      "title": "Simple Task",
+      "source": "Gibwork",
+      "rewardText": "9 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-18.",
+      "url": "https://app.gib.work/tasks/ac16aa04-9dbe-44e3-830e-1d8ffe58f5ae"
     },
     {
       "title": "Axzra Brand Outreach Challenge",
@@ -130,20 +130,20 @@
       "url": "https://github.com/alfrexo95/bounty-bot/issues/27"
     },
     {
-      "title": "Create the first funded bounty for an established open-source project",
-      "source": "GitHub",
-      "rewardText": "Check issue",
-      "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
-    },
-    {
       "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
       "source": "GitHub",
       "rewardText": "$100 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109"
+    },
+    {
+      "title": "Create the first funded bounty for an established open-source project",
+      "source": "GitHub",
+      "rewardText": "Check issue",
+      "action": "PR or issue",
+      "note": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
     },
     {
       "title": "💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ",
