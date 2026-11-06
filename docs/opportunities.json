@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T06:39:46.332Z",
+  "updatedAt": "2026-11-06T06:36:21.015Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -52,7 +52,7 @@
     {
       "title": "Simple Task",
       "source": "Gibwork",
-      "rewardText": "9 USDC pool",
+      "rewardText": "8 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-18.",
       "url": "https://app.gib.work/tasks/ac16aa04-9dbe-44e3-830e-1d8ffe58f5ae"
@@ -90,6 +90,22 @@
       "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665"
     },
     {
+      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
+      "source": "GitHub",
+      "rewardText": "$450 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208"
+    },
+    {
+      "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block ",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206"
+    },
+    {
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
       "source": "GitHub",
       "rewardText": "$100 candidate",
@@ -106,52 +122,36 @@
       "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
     },
     {
-      "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "title": "[Bounty] 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressu",
       "source": "GitHub",
-      "rewardText": "$100 candidate",
+      "rewardText": "$450 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107"
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224"
     },
     {
-      "title": "💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
       "source": "GitHub",
-      "rewardText": "$100 candidate",
-      "action": "PR or issue",
-      "note": "alfrexo95/bounty-bot",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/21"
-    },
-    {
-      "title": "💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu",
-      "source": "GitHub",
-      "rewardText": "$100 candidate",
-      "action": "PR or issue",
-      "note": "alfrexo95/bounty-bot",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/27"
-    },
-    {
-      "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
-      "source": "GitHub",
-      "rewardText": "$100 candidate",
+      "rewardText": "$600 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109"
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4221"
     },
     {
-      "title": "Create the first funded bounty for an established open-source project",
+      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
       "source": "GitHub",
-      "rewardText": "Check issue",
+      "rewardText": "$600 candidate",
       "action": "PR or issue",
-      "note": "NSPG13/agent-bounties",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1632"
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4219"
     },
     {
-      "title": "💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ",
+      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
       "source": "GitHub",
-      "rewardText": "$100 candidate",
+      "rewardText": "$600 candidate",
       "action": "PR or issue",
-      "note": "alfrexo95/bounty-bot",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/28"
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4218"
     }
   ]
 }
