@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T05:56:17.405Z",
+  "updatedAt": "2026-11-09T06:18:40.624Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Promote Our Web3 Talent Network on X, Telegram or Discord",
       "source": "Gibwork",
-      "rewardText": "910 USDC pool",
+      "rewardText": "710 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-29.",
       "url": "https://app.gib.work/tasks/65dd4064-eb40-4713-b631-db49062663e0"
@@ -42,20 +42,28 @@
       "url": "https://app.gib.work/tasks/84204e15-c818-4770-99c8-1c670a7210f1"
     },
     {
+      "title": "Draw a LEGENDARY Card from Seeker Envelope EMOS IOU Pack",
+      "source": "Gibwork",
+      "rewardText": "30 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-11-22.",
+      "url": "https://app.gib.work/tasks/10f03193-ad70-48ea-a181-bcba2e76348c"
+    },
+    {
+      "title": "Test and review QR and Barcode Scanner Pro bounty by techvora limited",
+      "source": "Gibwork",
+      "rewardText": "2 USDC pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-11-15.",
+      "url": "https://app.gib.work/tasks/f3cba36f-ff64-45e7-b0ac-c350d9f68ba6"
+    },
+    {
       "title": "Solana Life – Level 50 Player Feedback Bounty",
       "source": "Gibwork",
       "rewardText": "10 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-22.",
       "url": "https://app.gib.work/tasks/c3496cde-e02d-4abb-b6d3-5ea3553757ac"
-    },
-    {
-      "title": "Refer 5 genuine new Temu users with the provided referral link bounty",
-      "source": "Gibwork",
-      "rewardText": "9 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-11-09.",
-      "url": "https://app.gib.work/tasks/6d2704d1-f041-4708-8610-f752d7ddcba5"
     },
     {
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
@@ -82,6 +90,22 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206"
     },
     {
+      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276"
+    },
+    {
+      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274"
+    },
+    {
       "title": "[Bounty: 23 USDC] Create contributors webpage",
       "source": "GitHub",
       "rewardText": "$23 candidate",
@@ -104,22 +128,6 @@
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224"
-    },
-    {
-      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4221"
-    },
-    {
-      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4219"
     }
   ]
 }
