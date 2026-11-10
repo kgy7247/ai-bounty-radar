@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T06:18:40.624Z",
+  "updatedAt": "2026-11-10T07:11:56.382Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Promote Our Web3 Talent Network on X, Telegram or Discord",
       "source": "Gibwork",
-      "rewardText": "710 USDC pool",
+      "rewardText": "640 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-29.",
       "url": "https://app.gib.work/tasks/65dd4064-eb40-4713-b631-db49062663e0"
@@ -34,12 +34,12 @@
       "url": "https://app.gib.work/tasks/1ca4e464-52f0-407d-8db5-d892b5a3c87b"
     },
     {
-      "title": "Your BASIS Journey Pick ONE of 50 Themes",
+      "title": "50 Ways to Share Your BASIS Story Pick ONE Theme",
       "source": "Gibwork",
-      "rewardText": "33 USDC pool",
+      "rewardText": "1 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-11-13.",
-      "url": "https://app.gib.work/tasks/84204e15-c818-4770-99c8-1c670a7210f1"
+      "note": "Social Media; deadline 2026-11-14.",
+      "url": "https://app.gib.work/tasks/9720daec-591b-4783-864b-5e92b4fd3a53"
     },
     {
       "title": "Draw a LEGENDARY Card from Seeker Envelope EMOS IOU Pack",
@@ -95,6 +95,14 @@
       "rewardText": "$600 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4281"
+    },
+    {
+      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276"
     },
     {
@@ -120,14 +128,6 @@
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237"
-    },
-    {
-      "title": "[Bounty] 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressu",
-      "source": "GitHub",
-      "rewardText": "$450 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224"
     }
   ]
 }
