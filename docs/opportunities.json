@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:11:56.382Z",
+  "updatedAt": "2026-11-11T06:08:12.744Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -66,6 +66,22 @@
       "url": "https://app.gib.work/tasks/c3496cde-e02d-4abb-b6d3-5ea3553757ac"
     },
     {
+      "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic ",
+      "source": "GitHub",
+      "rewardText": "$450 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308"
+    },
+    {
+      "title": "[Escrowed $600 USDC] Stabilize multi-shard batch watermarks across concurrent worker epochs (`Furnace`)",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "IES-BoilerRoom/Furnace",
+      "url": "https://github.com/IES-BoilerRoom/Furnace/issues/2"
+    },
+    {
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
       "source": "GitHub",
       "rewardText": "$100 candidate",
@@ -90,44 +106,28 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206"
     },
     {
+      "title": "[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307"
+    },
+    {
+      "title": "[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305"
+    },
+    {
       "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
       "source": "GitHub",
       "rewardText": "$600 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4281"
-    },
-    {
-      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276"
-    },
-    {
-      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274"
-    },
-    {
-      "title": "[Bounty: 23 USDC] Create contributors webpage",
-      "source": "GitHub",
-      "rewardText": "$23 candidate",
-      "action": "PR or issue",
-      "note": "dwebagents/AgentPipe",
-      "url": "https://github.com/dwebagents/AgentPipe/issues/1580"
-    },
-    {
-      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237"
     }
   ]
 }
