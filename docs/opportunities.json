@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:08:12.744Z",
+  "updatedAt": "2026-11-12T07:05:24.731Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,10 +20,18 @@
     {
       "title": "Promote Our Web3 Talent Network on X, Telegram or Discord",
       "source": "Gibwork",
-      "rewardText": "640 USDC pool",
+      "rewardText": "580 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-29.",
       "url": "https://app.gib.work/tasks/65dd4064-eb40-4713-b631-db49062663e0"
+    },
+    {
+      "title": "Review or demo trnch on Robinhood Chain - $200 USDC",
+      "source": "Gibwork",
+      "rewardText": "200 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-21.",
+      "url": "https://app.gib.work/tasks/9fb825a9-d330-482c-a4b3-a0cde314f26e"
     },
     {
       "title": "Mooshies Waitlist + Follow + Telegram + Share Your Wallet Card",
@@ -40,6 +48,14 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-14.",
       "url": "https://app.gib.work/tasks/9720daec-591b-4783-864b-5e92b4fd3a53"
+    },
+    {
+      "title": "Syphron Weekly Challenge Week 1: Like, repost, comment and win your share of $50",
+      "source": "Gibwork",
+      "rewardText": "50 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-25.",
+      "url": "https://app.gib.work/tasks/1010cdb6-a09e-4636-9c56-9ed1509a9d27"
     },
     {
       "title": "Draw a LEGENDARY Card from Seeker Envelope EMOS IOU Pack",
@@ -64,6 +80,14 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-22.",
       "url": "https://app.gib.work/tasks/c3496cde-e02d-4abb-b6d3-5ea3553757ac"
+    },
+    {
+      "title": "What's missing on the App?",
+      "source": "Gibwork",
+      "rewardText": "1 CREDITS pool",
+      "action": "Submission",
+      "note": "Design; deadline 2026-11-25.",
+      "url": "https://app.gib.work/tasks/1cb34d18-ce1f-4477-a096-a22e077d0038"
     },
     {
       "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic ",
