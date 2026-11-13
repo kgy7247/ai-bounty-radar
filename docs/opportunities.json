@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:05:24.731Z",
+  "updatedAt": "2026-11-13T06:38:07.491Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Promote Our Web3 Talent Network on X, Telegram or Discord",
       "source": "Gibwork",
-      "rewardText": "580 USDC pool",
+      "rewardText": "550 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-29.",
       "url": "https://app.gib.work/tasks/65dd4064-eb40-4713-b631-db49062663e0"
@@ -42,12 +42,12 @@
       "url": "https://app.gib.work/tasks/1ca4e464-52f0-407d-8db5-d892b5a3c87b"
     },
     {
-      "title": "50 Ways to Share Your BASIS Story Pick ONE Theme",
+      "title": "Where Your Yield Actually Goes Pick ONE of 50 Themes",
       "source": "Gibwork",
-      "rewardText": "1 USDC pool",
+      "rewardText": "100 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-11-14.",
-      "url": "https://app.gib.work/tasks/9720daec-591b-4783-864b-5e92b4fd3a53"
+      "note": "Social Media; deadline 2026-11-16.",
+      "url": "https://app.gib.work/tasks/2951d35d-159b-4400-99a4-4aeb7105d424"
     },
     {
       "title": "Syphron Weekly Challenge Week 1: Like, repost, comment and win your share of $50",
@@ -82,12 +82,20 @@
       "url": "https://app.gib.work/tasks/c3496cde-e02d-4abb-b6d3-5ea3553757ac"
     },
     {
-      "title": "What's missing on the App?",
-      "source": "Gibwork",
-      "rewardText": "1 CREDITS pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-11-25.",
-      "url": "https://app.gib.work/tasks/1cb34d18-ce1f-4477-a096-a22e077d0038"
+      "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314"
+    },
+    {
+      "title": "[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4315"
     },
     {
       "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic ",
@@ -114,6 +122,14 @@
       "url": "https://github.com/blake-guthrie/GLASS/issues/1"
     },
     {
+      "title": "[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat",
+      "source": "GitHub",
+      "rewardText": "$450 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316"
+    },
+    {
       "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
       "source": "GitHub",
       "rewardText": "$450 candidate",
@@ -128,30 +144,6 @@
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206"
-    },
-    {
-      "title": "[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307"
-    },
-    {
-      "title": "[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305"
-    },
-    {
-      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4281"
     }
   ]
 }
