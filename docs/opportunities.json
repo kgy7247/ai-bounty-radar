@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:15:23.520Z",
+  "updatedAt": "2026-11-15T06:22:54.616Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,12 +42,12 @@
       "url": "https://app.gib.work/tasks/1ca4e464-52f0-407d-8db5-d892b5a3c87b"
     },
     {
-      "title": "Where Your Yield Actually Goes Pick ONE of 50 Themes",
+      "title": "How Did Your First Deposit Go? Pick ONE of 50 Angles",
       "source": "Gibwork",
       "rewardText": "10 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-16.",
-      "url": "https://app.gib.work/tasks/2951d35d-159b-4400-99a4-4aeb7105d424"
+      "url": "https://app.gib.work/tasks/1aa48243-fba4-4876-99aa-51657d933eb9"
     },
     {
       "title": "Syphron Weekly Challenge Week 1: Like, repost, comment and win your share of $50",
@@ -90,6 +90,38 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314"
     },
     {
+      "title": "[$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unindexed (>=$15M TVL) Control-Plane Mismatch",
+      "source": "GitHub",
+      "rewardText": "$25 candidate",
+      "action": "PR or issue",
+      "note": "Fractal-Neurons/pacta",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/24"
+    },
+    {
+      "title": "[Bounty] [Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across ",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4339"
+    },
+    {
+      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 — Ethereum Mainnet (>=$25M TVL Unindexed Protocol)",
+      "source": "GitHub",
+      "rewardText": "$25 candidate",
+      "action": "PR or issue",
+      "note": "Fractal-Neurons/pacta",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/21"
+    },
+    {
+      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 — Ethereum Mainnet (>=$25M TVL Unindexed Protocol)",
+      "source": "GitHub",
+      "rewardText": "$25 candidate",
+      "action": "PR or issue",
+      "note": "Fractal-Neurons/pacta",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/22"
+    },
+    {
       "title": "[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe",
       "source": "GitHub",
       "rewardText": "$600 candidate",
@@ -106,44 +138,12 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308"
     },
     {
-      "title": "[Escrowed $600 USDC] Stabilize multi-shard batch watermarks across concurrent worker epochs (`Furnace`)",
+      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 — Base (8453) or Arbitrum One (42161) (>=$10M TVL Unindexed Protocol)",
       "source": "GitHub",
-      "rewardText": "$600 candidate",
+      "rewardText": "$25 candidate",
       "action": "PR or issue",
-      "note": "IES-BoilerRoom/Furnace",
-      "url": "https://github.com/IES-BoilerRoom/Furnace/issues/2"
-    },
-    {
-      "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
-      "source": "GitHub",
-      "rewardText": "$100 candidate",
-      "action": "PR or issue",
-      "note": "blake-guthrie/GLASS",
-      "url": "https://github.com/blake-guthrie/GLASS/issues/1"
-    },
-    {
-      "title": "[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat",
-      "source": "GitHub",
-      "rewardText": "$450 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316"
-    },
-    {
-      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
-      "source": "GitHub",
-      "rewardText": "$450 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208"
-    },
-    {
-      "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block ",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206"
+      "note": "Fractal-Neurons/pacta",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/23"
     }
   ]
 }
