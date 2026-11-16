@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T06:22:54.616Z",
+  "updatedAt": "2026-11-16T06:21:26.485Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -42,14 +42,6 @@
       "url": "https://app.gib.work/tasks/1ca4e464-52f0-407d-8db5-d892b5a3c87b"
     },
     {
-      "title": "How Did Your First Deposit Go? Pick ONE of 50 Angles",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-11-16.",
-      "url": "https://app.gib.work/tasks/1aa48243-fba4-4876-99aa-51657d933eb9"
-    },
-    {
       "title": "Syphron Weekly Challenge Week 1: Like, repost, comment and win your share of $50",
       "source": "Gibwork",
       "rewardText": "50 USDC pool",
@@ -66,20 +58,36 @@
       "url": "https://app.gib.work/tasks/10f03193-ad70-48ea-a181-bcba2e76348c"
     },
     {
-      "title": "Test and review QR and Barcode Scanner Pro bounty by techvora limited",
-      "source": "Gibwork",
-      "rewardText": "2 USDC pool",
-      "action": "Submission",
-      "note": "Design; deadline 2026-11-15.",
-      "url": "https://app.gib.work/tasks/f3cba36f-ff64-45e7-b0ac-c350d9f68ba6"
-    },
-    {
       "title": "Solana Life – Level 50 Player Feedback Bounty",
       "source": "Gibwork",
       "rewardText": "10 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-22.",
       "url": "https://app.gib.work/tasks/c3496cde-e02d-4abb-b6d3-5ea3553757ac"
+    },
+    {
+      "title": "🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
+      "source": "GitHub",
+      "rewardText": "$25 candidate",
+      "action": "PR or issue",
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/87"
+    },
+    {
+      "title": "🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
+      "source": "GitHub",
+      "rewardText": "$25 candidate",
+      "action": "PR or issue",
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/85"
+    },
+    {
+      "title": "🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
+      "source": "GitHub",
+      "rewardText": "$25 candidate",
+      "action": "PR or issue",
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/86"
     },
     {
       "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
@@ -90,60 +98,36 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314"
     },
     {
-      "title": "[$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unindexed (>=$15M TVL) Control-Plane Mismatch",
+      "title": "🪙 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 ",
       "source": "GitHub",
       "rewardText": "$25 candidate",
       "action": "PR or issue",
-      "note": "Fractal-Neurons/pacta",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/24"
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/84"
     },
     {
-      "title": "[Bounty] [Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across ",
+      "title": "[Bounty] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unin",
       "source": "GitHub",
-      "rewardText": "$600 candidate",
+      "rewardText": "$25 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4339"
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4348"
     },
     {
-      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 — Ethereum Mainnet (>=$25M TVL Unindexed Protocol)",
+      "title": "BOUNTY-05: Buyer script — real $0.05 settle on royal-ruby (EIP-3009 two-call flow), first valid tx wins",
+      "source": "GitHub",
+      "rewardText": "$0.05 candidate",
+      "action": "PR or issue",
+      "note": "bshelby88/raen-bounties",
+      "url": "https://github.com/bshelby88/raen-bounties/issues/18"
+    },
+    {
+      "title": "[Bounty] 🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
       "source": "GitHub",
       "rewardText": "$25 candidate",
-      "action": "PR or issue",
-      "note": "Fractal-Neurons/pacta",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/21"
-    },
-    {
-      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 — Ethereum Mainnet (>=$25M TVL Unindexed Protocol)",
-      "source": "GitHub",
-      "rewardText": "$25 candidate",
-      "action": "PR or issue",
-      "note": "Fractal-Neurons/pacta",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/22"
-    },
-    {
-      "title": "[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4315"
-    },
-    {
-      "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic ",
-      "source": "GitHub",
-      "rewardText": "$450 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308"
-    },
-    {
-      "title": "[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 — Base (8453) or Arbitrum One (42161) (>=$10M TVL Unindexed Protocol)",
-      "source": "GitHub",
-      "rewardText": "$25 candidate",
-      "action": "PR or issue",
-      "note": "Fractal-Neurons/pacta",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/23"
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4344"
     }
   ]
 }
