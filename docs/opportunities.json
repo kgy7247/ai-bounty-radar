@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:21:26.485Z",
+  "updatedAt": "2026-11-17T07:50:35.337Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Promote Our Web3 Talent Network on X, Telegram or Discord",
       "source": "Gibwork",
-      "rewardText": "520 USDC pool",
+      "rewardText": "460 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-29.",
       "url": "https://app.gib.work/tasks/65dd4064-eb40-4713-b631-db49062663e0"
@@ -30,7 +30,7 @@
       "source": "Gibwork",
       "rewardText": "200 USDC pool",
       "action": "Submission",
-      "note": "Social Media; deadline 2026-11-21.",
+      "note": "Social Media; deadline 2026-11-28.",
       "url": "https://app.gib.work/tasks/9fb825a9-d330-482c-a4b3-a0cde314f26e"
     },
     {
@@ -40,6 +40,22 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-22.",
       "url": "https://app.gib.work/tasks/1ca4e464-52f0-407d-8db5-d892b5a3c87b"
+    },
+    {
+      "title": "Explore Tech Elight, Bring a Project & Help Us Test Our Platform!",
+      "source": "Gibwork",
+      "rewardText": "110 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-30.",
+      "url": "https://app.gib.work/tasks/0a18a64c-f49f-46d5-8717-d250311c7a3b"
+    },
+    {
+      "title": "What You Stopped Worrying About Pick ONE of 50 Themes",
+      "source": "Gibwork",
+      "rewardText": "1 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-21.",
+      "url": "https://app.gib.work/tasks/dc943895-7055-4477-93b5-11a0fe1eaec6"
     },
     {
       "title": "Syphron Weekly Challenge Week 1: Like, repost, comment and win your share of $50",
@@ -114,20 +130,20 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4348"
     },
     {
+      "title": "[Bounty] [Wave 2 · Epoch 1: 25 × $1 USDC | 1,000-Slot Program] Continuous Agent & Researc",
+      "source": "GitHub",
+      "rewardText": "$1 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4368"
+    },
+    {
       "title": "BOUNTY-05: Buyer script — real $0.05 settle on royal-ruby (EIP-3009 two-call flow), first valid tx wins",
       "source": "GitHub",
       "rewardText": "$0.05 candidate",
       "action": "PR or issue",
       "note": "bshelby88/raen-bounties",
       "url": "https://github.com/bshelby88/raen-bounties/issues/18"
-    },
-    {
-      "title": "[Bounty] 🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
-      "source": "GitHub",
-      "rewardText": "$25 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4344"
     }
   ]
 }
