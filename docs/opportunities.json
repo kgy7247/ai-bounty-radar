@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T07:50:35.337Z",
+  "updatedAt": "2026-11-18T07:21:38.949Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -106,20 +106,20 @@
       "url": "https://github.com/alfrexo95/bounty-bot/issues/86"
     },
     {
-      "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314"
-    },
-    {
       "title": "🪙 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 ",
       "source": "GitHub",
       "rewardText": "$25 candidate",
       "action": "PR or issue",
       "note": "alfrexo95/bounty-bot",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/84"
+    },
+    {
+      "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
+      "source": "GitHub",
+      "rewardText": "$600 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314"
     },
     {
       "title": "[Bounty] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unin",
