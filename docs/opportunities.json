@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:19:17.770Z",
+  "updatedAt": "2026-11-20T07:07:53.702Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Promote Our Web3 Talent Network on X, Telegram or Discord",
       "source": "Gibwork",
-      "rewardText": "360 USDC pool",
+      "rewardText": "345 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-29.",
       "url": "https://app.gib.work/tasks/65dd4064-eb40-4713-b631-db49062663e0"
@@ -42,20 +42,20 @@
       "url": "https://app.gib.work/tasks/1ca4e464-52f0-407d-8db5-d892b5a3c87b"
     },
     {
+      "title": "BASIS DRR Update: All Four Assets Up RT + Add Your Read",
+      "source": "Gibwork",
+      "rewardText": "1 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-25.",
+      "url": "https://app.gib.work/tasks/81334650-8a52-42ed-9142-8bc921f768da"
+    },
+    {
       "title": "Explore Tech Elight, Bring a Project & Help Us Test Our Platform!",
       "source": "Gibwork",
       "rewardText": "110 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-30.",
       "url": "https://app.gib.work/tasks/0a18a64c-f49f-46d5-8717-d250311c7a3b"
-    },
-    {
-      "title": "Syphron Weekly Challenge Week 1: Like, repost, comment and win your share of $50",
-      "source": "Gibwork",
-      "rewardText": "50 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-11-25.",
-      "url": "https://app.gib.work/tasks/1010cdb6-a09e-4636-9c56-9ed1509a9d27"
     },
     {
       "title": "Draw a LEGENDARY Card from Seeker Envelope EMOS IOU Pack",
@@ -98,20 +98,20 @@
       "url": "https://github.com/alfrexo95/bounty-bot/issues/86"
     },
     {
-      "title": "[Wave 2 · Epoch 1: 25 × $1 USDC | 1,000-Slot Program] Continuous Agent & Researcher Control-Plane Mismatch Pool",
+      "title": "[Bounty] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R",
       "source": "GitHub",
-      "rewardText": "$1 candidate",
+      "rewardText": "$20 candidate",
       "action": "PR or issue",
-      "note": "Fractal-Neurons/pacta",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/41"
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4374"
     },
     {
-      "title": "🪙 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 ",
+      "title": "🪙 [Web3] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory",
       "source": "GitHub",
-      "rewardText": "$25 candidate",
+      "rewardText": "$20 candidate",
       "action": "PR or issue",
       "note": "alfrexo95/bounty-bot",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/84"
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/96"
     },
     {
       "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
@@ -122,20 +122,20 @@
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314"
     },
     {
-      "title": "[Bounty] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unin",
+      "title": "🪙 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 ",
       "source": "GitHub",
       "rewardText": "$25 candidate",
       "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4348"
+      "note": "alfrexo95/bounty-bot",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/84"
     },
     {
-      "title": "[Bounty] [Wave 2 · Epoch 1: 25 × $1 USDC | 1,000-Slot Program] Continuous Agent & Researc",
+      "title": "[Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-Researcher Control-Plane Due-Diligence Pool",
       "source": "GitHub",
-      "rewardText": "$1 candidate",
+      "rewardText": "$20 candidate",
       "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4368"
+      "note": "Fractal-Neurons/pacta",
+      "url": "https://github.com/Fractal-Neurons/pacta/issues/118"
     }
   ]
 }
