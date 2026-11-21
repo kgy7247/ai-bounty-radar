@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:07:53.702Z",
+  "updatedAt": "2026-11-21T06:59:57.676Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -114,6 +114,14 @@
       "url": "https://github.com/alfrexo95/bounty-bot/issues/96"
     },
     {
+      "title": "[Bounty] [150 USDC] Propagate sibling subschema annotations across `allOf` / `oneOf` bran",
+      "source": "GitHub",
+      "rewardText": "$150 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4377"
+    },
+    {
       "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
       "source": "GitHub",
       "rewardText": "$600 candidate",
@@ -128,14 +136,6 @@
       "action": "PR or issue",
       "note": "alfrexo95/bounty-bot",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/84"
-    },
-    {
-      "title": "[Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-Researcher Control-Plane Due-Diligence Pool",
-      "source": "GitHub",
-      "rewardText": "$20 candidate",
-      "action": "PR or issue",
-      "note": "Fractal-Neurons/pacta",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/118"
     }
   ]
 }
