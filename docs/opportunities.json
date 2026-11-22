@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T06:59:57.676Z",
+  "updatedAt": "2026-11-22T06:40:45.381Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -36,7 +36,7 @@
     {
       "title": "Mooshies Waitlist + Follow + Telegram + Share Your Wallet Card",
       "source": "Gibwork",
-      "rewardText": "200 USDC pool",
+      "rewardText": "176 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-22.",
       "url": "https://app.gib.work/tasks/1ca4e464-52f0-407d-8db5-d892b5a3c87b"
@@ -66,12 +66,20 @@
       "url": "https://app.gib.work/tasks/10f03193-ad70-48ea-a181-bcba2e76348c"
     },
     {
-      "title": "Solana Life – Level 50 Player Feedback Bounty",
-      "source": "Gibwork",
-      "rewardText": "10 USDC pool",
-      "action": "Submission",
-      "note": "Social Media; deadline 2026-11-22.",
-      "url": "https://app.gib.work/tasks/c3496cde-e02d-4abb-b6d3-5ea3553757ac"
+      "title": "[Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethe",
+      "source": "GitHub",
+      "rewardText": "$1.00 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381"
+    },
+    {
+      "title": "[Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses ",
+      "source": "GitHub",
+      "rewardText": "$2.00 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380"
     },
     {
       "title": "🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
@@ -120,22 +128,6 @@
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4377"
-    },
-    {
-      "title": "[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across ",
-      "source": "GitHub",
-      "rewardText": "$600 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314"
-    },
-    {
-      "title": "🪙 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 ",
-      "source": "GitHub",
-      "rewardText": "$25 candidate",
-      "action": "PR or issue",
-      "note": "alfrexo95/bounty-bot",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/84"
     }
   ]
 }
