@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:29:54.061Z",
+  "updatedAt": "2026-11-24T09:49:21.122Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Promote Our Web3 Talent Network on X, Telegram or Discord",
       "source": "Gibwork",
-      "rewardText": "285 USDC pool",
+      "rewardText": "275 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-29.",
       "url": "https://app.gib.work/tasks/65dd4064-eb40-4713-b631-db49062663e0"
@@ -42,20 +42,20 @@
       "url": "https://app.gib.work/tasks/0a18a64c-f49f-46d5-8717-d250311c7a3b"
     },
     {
-      "title": "Your BASIS in Numbers Pick ONE of 50 Themes",
+      "title": "Your Staking Setup Pick ONE of 50 Themes",
       "source": "Gibwork",
-      "rewardText": "100 USDC pool",
+      "rewardText": "1 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-28.",
-      "url": "https://app.gib.work/tasks/3a3ad5a7-0e5c-437d-bf63-e9500b54b51f"
+      "url": "https://app.gib.work/tasks/14e3af81-c837-4a32-9966-64e3c5a8417e"
     },
     {
-      "title": "[Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethe",
+      "title": "[BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC)",
       "source": "GitHub",
-      "rewardText": "$1.00 candidate",
+      "rewardText": "$0.00 candidate",
       "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381"
+      "note": "EliCunninghamDev/haiku-core",
+      "url": "https://github.com/EliCunninghamDev/haiku-core/issues/1"
     },
     {
       "title": "[Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses ",
@@ -64,6 +64,14 @@
       "action": "PR or issue",
       "note": "zhangjiayang6835-cyber/bounty-plaza",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380"
+    },
+    {
+      "title": "[Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethe",
+      "source": "GitHub",
+      "rewardText": "$1.00 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381"
     },
     {
       "title": "🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc",
@@ -104,14 +112,6 @@
       "action": "PR or issue",
       "note": "alfrexo95/bounty-bot",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/96"
-    },
-    {
-      "title": "[Bounty] [150 USDC] Propagate sibling subschema annotations across `allOf` / `oneOf` bran",
-      "source": "GitHub",
-      "rewardText": "$150 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4377"
     }
   ]
 }
