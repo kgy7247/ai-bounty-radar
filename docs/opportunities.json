@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:25:48.128Z",
+  "updatedAt": "2026-11-26T08:10:04.260Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Promote Our Web3 Talent Network on X, Telegram or Discord",
       "source": "Gibwork",
-      "rewardText": "275 USDC pool",
+      "rewardText": "255 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-29.",
       "url": "https://app.gib.work/tasks/65dd4064-eb40-4713-b631-db49062663e0"
@@ -44,10 +44,18 @@
     {
       "title": "The Red Week From Your Side Pick ONE of 50 Themes",
       "source": "Gibwork",
-      "rewardText": "12 USDC pool",
+      "rewardText": "1 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-28.",
       "url": "https://app.gib.work/tasks/0396a116-e568-4683-8d98-6448f146c529"
+    },
+    {
+      "title": "Write an X post or quote post about oneshot",
+      "source": "Gibwork",
+      "rewardText": "10 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-11-30.",
+      "url": "https://app.gib.work/tasks/e6d6b721-cb9a-4d13-a8b1-be888e3ce1de"
     },
     {
       "title": "[BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC)",
@@ -98,20 +106,20 @@
       "url": "https://github.com/alfrexo95/bounty-bot/issues/86"
     },
     {
-      "title": "[Bounty] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R",
-      "source": "GitHub",
-      "rewardText": "$20 candidate",
-      "action": "PR or issue",
-      "note": "zhangjiayang6835-cyber/bounty-plaza",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4374"
-    },
-    {
       "title": "🪙 [Web3] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory",
       "source": "GitHub",
       "rewardText": "$20 candidate",
       "action": "PR or issue",
       "note": "alfrexo95/bounty-bot",
       "url": "https://github.com/alfrexo95/bounty-bot/issues/96"
+    },
+    {
+      "title": "[Bounty] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R",
+      "source": "GitHub",
+      "rewardText": "$20 candidate",
+      "action": "PR or issue",
+      "note": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4374"
     }
   ]
 }
