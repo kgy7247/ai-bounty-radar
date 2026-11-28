@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:21:23.401Z",
+  "updatedAt": "2026-11-28T07:42:12.549Z",
   "opportunities": [
     {
       "title": "Virtuals referral",
@@ -20,7 +20,7 @@
     {
       "title": "Promote Our Web3 Talent Network on X, Telegram or Discord",
       "source": "Gibwork",
-      "rewardText": "255 USDC pool",
+      "rewardText": "250 USDC pool",
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-29.",
       "url": "https://app.gib.work/tasks/65dd4064-eb40-4713-b631-db49062663e0"
@@ -40,6 +40,14 @@
       "action": "Submission",
       "note": "Social Media; deadline 2026-11-30.",
       "url": "https://app.gib.work/tasks/0a18a64c-f49f-46d5-8717-d250311c7a3b"
+    },
+    {
+      "title": "Audit Your Own Subscription Stack",
+      "source": "Gibwork",
+      "rewardText": "1 USDC pool",
+      "action": "Submission",
+      "note": "Social Media; deadline 2026-12-11.",
+      "url": "https://app.gib.work/tasks/997af628-bbe3-4c64-9a38-fe4847333d6a"
     },
     {
       "title": "Write an X post or quote post about oneshot",
